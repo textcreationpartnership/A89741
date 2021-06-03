@@ -1,0 +1,3831 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The names of the iustices of peace, in England and Wales. as they stand in Commission in their several counties in this Michaelmas terme. 1650.</title>
+         </titleStmt>
+         <extent>Approx. 115KB of XML-encoded text transcribed from 40 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89741</idno><idno type="EEBO-CITATION">99868052</idno>
+  <idno type="VID">169483</idno>
+  <idno type="EEBO-PROQUEST">2240941476</idno>
+  
+            <idno type="STC">Wing N133</idno>
+            <idno type="STC">Thomason E1238_4</idno>
+            <idno type="STC">ESTC R209162</idno>
+            <idno type="PROQUEST">99868052</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99868052e"/>
+            <note>(EEBO-TCP ; phase 2, no. A89741)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169483)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 170:E1238[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The names of the iustices of peace, in England and Wales. as they stand in Commission in their several counties in this Michaelmas terme. 1650.</title>
+               </titleStmt>
+               <extent>79 [i.e. 78] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Walkley,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Page 78 is misnumbered 79.</note>
+                  <note>A list of "High sheriffes of England and Wales" is included on pages 76-77.</note>
+                  <note>Annotation on Thomason copy: "Nou: 27".</note>
+                  <note>Identified as Wing W133 on UMI microfilm set "Early English books, 1641-1700".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Justices of the peace --  England --  Early works to 1800.</term>
+               <term type="topical_term">Sheriffs --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-01 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2015-01 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169483:1"/>
+            <p>THE NAMES OF THE IVSTICES of PEACE, in <hi>ENGLAND</hi> and <hi>WALES.</hi>
+            </p>
+            <p>As they stand in Commission in their several Counties this <hi>Michaelmas</hi> Terme. 1650.</p>
+            <p>LONDON, Printed for <hi>Thomas Walkley.</hi> 1650.</p>
+         </div>
+      </front>
+      <body>
+         <div type="lists">
+            <pb facs="tcp:169483:2"/>
+            <pb n="3" facs="tcp:169483:2"/>
+            <head>The NAMES OF THE IVSTICES of PEACE, in <hi>ENGLAND</hi> and <hi>WALES.</hi>
+            </head>
+            <div type="justices_of_BEDFORD.">
+               <head>BEDFORD.</head>
+               <list>
+                  <head>Quorum.</head>
+                  <item>
+                     <seg rend="decorInit">W</seg>Illiam Lenthal Speaker.</item>
+                  <item>Oliver Crom<g ref="char:EOLhyphen"/>well, Lord General.</item>
+                  <item>John Bradshawe, Lo. President.</item>
+                  <item>Bulst. Whitlock L. Com<g ref="char:EOLhyphen"/>mission. of the gr. seal.</item>
+                  <item>Richard Keble L. Com<g ref="char:EOLhyphen"/>mission. of the gr. seal.</item>
+                  <item>John Lisle L. Com<g ref="char:EOLhyphen"/>mission. of the gr. seal.</item>
+                  <item>Henry, Earl of Kent.</item>
+                  <item>Thomas Lord Fairfax.</item>
+                  <item>Henry Roll, Lord chief Just. of the up. Bench.</item>
+                  <item>Oliver St. John, L. chief Just. of the Common Pleas.</item>
+                  <item>Edward Atkins one of the Just. of Com. Pleas.</item>
+                  <item>Richard Ask one of the Just. of the up. Bench.</item>
+                  <pb n="4" facs="tcp:169483:3"/>
+                  <item>Edw. Prideaux, Att. G.</item>
+                  <item>Beauchamp St John, Kt.</item>
+                  <item>Thomas Alston, Baron.</item>
+                  <item>William Briers, Knight.</item>
+                  <item>William Botoler, Kt.</item>
+                  <item>John Rolt, Knight.</item>
+                  <item>John Neal.</item>
+                  <item>Robert Stanton.</item>
+                  <item>Richard Edwards.</item>
+                  <item>Edward Osborn.</item>
+                  <item>John Okey.</item>
+                  <item>William Allen, Senior.</item>
+                  <item>Edward Cater.</item>
+                  <item>John Hasledine.</item>
+                  <item>Richard Wagstafe.</item>
+                  <item>John Walker.</item>
+                  <item>Joseph Barbare.</item>
+                  <item>John Easten, of Bedf.</item>
+                  <item>John Grew, of Bedford</item>
+               </list>
+               <list>
+                  <item>Henry Whitebread.</item>
+                  <item>Edward Wingate,</item>
+                  <item>John Harvy.</item>
+                  <item>St John Charnock.</item>
+                  <item>John Smith.</item>
+                  <item>Thomas Arnold.</item>
+               </list>
+            </div>
+            <div type="justices_of_BERKSHIRE.">
+               <head>BERKSHIRE.</head>
+               <list>
+                  <head>Quorum.</head>
+                  <item>William Lenthall, Sp.</item>
+                  <item>Oliver Cromwell, L.G.</item>
+                  <item>John Bradshaw, L. Pres.</item>
+                  <item>Bul Whitlock, L. Com. of the Gr. seal.</item>
+                  <item>Richard Keble, L. Com. of the Gr. seal.</item>
+                  <item>John Lisle, L. Com. of the Gr. seal.</item>
+                  <item>Henry Roll, L. C. Just. of the upper Bench.</item>
+                  <item>John Wilde, L C. Bar.</item>
+                  <item>Rich. Aske, one of the just. of the up. bench.</item>
+                  <item>John Puleston, one of the just. of Com. Pleas.</item>
+                  <item>Phillip Jermyn, one of the just. of up. bench.</item>
+                  <item>Robert Nicholas one of the just. of up. bench.</item>
+                  <item>Rich. Thomlyns, Baron of the Exchequer.</item>
+                  <item>Edw. Prideaux, Att. G.</item>
+                  <item>George prat. Baronet.</item>
+                  <item>John Thorowgood, Kt.</item>
+                  <pb n="5" facs="tcp:169483:3"/>
+                  <item>Henry Martin.</item>
+                  <item>Edward Dunch.</item>
+                  <item>John Lenthall.</item>
+                  <item>Edward Wray.</item>
+                  <item>William Barker.</item>
+                  <item>George Purefoy.</item>
+                  <item>Henry Nevel.</item>
+                  <item>Nicholas Love.</item>
+                  <item>John Southby.</item>
+                  <item>Cornelius Holland.</item>
+                  <item>Daniel Blagrave.</item>
+                  <item>Humphry Edwards.</item>
+                  <item>Michael Oldsworth.</item>
+                  <item>Thomas Fettiplace.</item>
+                  <item>Samuel Dunch.</item>
+                  <item>Samuel Whitwhick.</item>
+                  <item>Thomas Bayles.</item>
+                  <item>Anthony Barker.</item>
+                  <item>Humphry Dolman.</item>
+                  <item>William Hyde.</item>
+                  <item>Roger Knight.</item>
+                  <item>Arthur Evelyn.</item>
+                  <item>William Trombal.</item>
+               </list>
+               <list>
+                  <item>Christo. Whitchcote.</item>
+                  <item>Thomas Paine.</item>
+                  <item>
+                     <hi>q.</hi> Richard Lovelace.</item>
+                  <item>Peter Barningham.</item>
+                  <item>William Strowde.</item>
+                  <item>Arnold Avery.</item>
+                  <item>Richard Winch.</item>
+                  <item>Richard Knollis.</item>
+                  <item>
+                     <hi>q.</hi> Thomas Hussey.</item>
+                  <item>John Allen.</item>
+               </list>
+            </div>
+            <div type="justices_of_BUCKINGHAM_SHIRE.">
+               <head>BUCKINGHAM SHIRE.</head>
+               <list>
+                  <head>Quorum.</head>
+                  <item>William Lenthall. Sp.</item>
+                  <item>Oliver Cromwel, L. G.</item>
+                  <item>John Bradshaw, L. Pres.</item>
+                  <item>B. Whitlock, L. Com. of the great seal.</item>
+                  <item>Rich. Keble, L. Com. of the great seal.</item>
+                  <item>John Lisle. L. Com. of the great seal.</item>
+                  <item>Tho. L. Gray of Groby</item>
+                  <item>Henry Roll, L. C. J. of the upper bench.</item>
+                  <item>Oliver St John, L. C. J. of the Com. Pleas.</item>
+                  <item>Edw. Atkins, one of the just. of the Com. Pl.</item>
+                  <item>Rich. Aske, one of the just. of the up. Bench.</item>
+                  <item>Edw. Prideaux, At. G.</item>
+                  <item>Pet. Temple, Kt. &amp; Bar.</item>
+                  <item>Will Drake, Baronet.</item>
+                  <pb n="6" facs="tcp:169483:4"/>
+                  <item>Gregory Norton, Bar.</item>
+                  <item>William Andrews, Kt.</item>
+                  <item>Richard Pygot, Kt.</item>
+                  <item>Richard Ingolsby, Kt.</item>
+                  <item>Henage Proby, Kt.</item>
+                  <item>Richard Napper, Kt.</item>
+                  <item>William Hackwel one of the Mrs. of Chan<g ref="char:EOLhyphen"/>cery.</item>
+                  <item>Edward West.</item>
+                  <item>Thomas Tipping.</item>
+                  <item>George Fleetwood.</item>
+                  <item>Simon Mayne.</item>
+                  <item>Thomas Scot.</item>
+                  <item>Tobias Tirrell.</item>
+                  <item>Henry Andrews.</item>
+                  <item>John Dormer.</item>
+                  <item>Isaac Pennington.</item>
+                  <item>Cornelius Holland.</item>
+                  <item>Edward Eyre.</item>
+                  <item>Francis Rouse.</item>
+                  <item>John Norbury.</item>
+                  <item>Symon Bennet.</item>
+                  <item>Thomas Bulstrode.</item>
+                  <item>Richard Greenvile.</item>
+                  <item>William Burlace.</item>
+                  <item>Anthony Radclife.</item>
+                  <item>Richard Berniger.</item>
+                  <item>Christo. Whitchcote.</item>
+                  <item>Richard Ingoldsby.</item>
+                  <item>Richard Sarjant.</item>
+                  <item>John Lane.</item>
+                  <item>Thomas Radcliffe.</item>
+                  <item>Christopher Egleton.</item>
+                  <item>Henry Beke.</item>
+                  <item>Francis Williamson.</item>
+                  <item>Richard Meade.</item>
+                  <item>Thomas Chaloner.</item>
+                  <item>James Chaloner.</item>
+                  <item>Purbeck Temple.</item>
+                  <item>William Theede.</item>
+                  <item>Robert Aldridge.</item>
+                  <item>Henry Gold.</item>
+                  <item>William Russel.</item>
+                  <item>William Granige.</item>
+                  <item>John Deverell.</item>
+                  <item>Thomas Shilbourne.</item>
+                  <item>George Baldwyn.</item>
+                  <item>Thomas Theede.</item>
+                  <item>Job Gibson.</item>
+                  <item>William Hill.</item>
+                  <item>Henry Churchill.</item>
+               </list>
+               <list>
+                  <item>Christopher Henn.</item>
+                  <item>Henry Canon.</item>
+                  <item>Thomas Lygo.</item>
+                  <item>John White</item>
+                  <item>Thomas Butterfield.</item>
+                  <item>Alexander Major.</item>
+                  <item>John Stacy.</item>
+                  <pb n="7" facs="tcp:169483:4"/>
+                  <item>John Green.</item>
+                  <item>John Perrot.</item>
+                  <item>William Graunge.</item>
+                  <item>William Smith.</item>
+                  <item>William Hawkins.</item>
+                  <item>John Baldwyn.</item>
+                  <item>Henry Whitbread.</item>
+                  <item>Edward Butterfield.</item>
+               </list>
+            </div>
+            <div type="justices_of_CAMBRIDGE.">
+               <head>CAMBRIDGE.</head>
+               <list>
+                  <head>Quorum.</head>
+                  <item>William Lenthall. Sp.</item>
+                  <item>Oliver Cromwel, L.G.</item>
+                  <item>John Bradshaw, L. Pres.</item>
+                  <item>B. Whitlock, L. Com. of the great seal.</item>
+                  <item>Rich. Keble, L. Com. of the great seal.</item>
+                  <item>John Lisle. L. Com. of the great seal.</item>
+                  <item>Dudly L. North.</item>
+                  <item>Thomas L. Fairfax.</item>
+                  <item>Henry Roll, L. C. Just. of the upper Bench.</item>
+                  <item>Oliver St. John, L. chief Just. of the Com. Pl.</item>
+                  <item>Edward Atkins, one of the Just. of the C. Pl.</item>
+                  <item>Richard Ask, one of the Just. of the upper Bench.</item>
+                  <item>Edward Prideaux, Att. Gen.</item>
+                  <item>Dudly North, Knight.</item>
+                  <item>Miles Sands, Kt. &amp; Bar.</item>
+                  <item>Thomas Willys, Baro.</item>
+                  <item>James Reynolds, Kt.</item>
+                  <item>Thomas Martin, Kt.</item>
+                  <item>Edward Partridge, Ka.</item>
+                  <item>Walter Clopton.</item>
+                  <item>Robert Castle.</item>
+                  <item>Dudly Pope.</item>
+                  <item>Thomas Ducket.</item>
+                  <item>Francis Russel.</item>
+                  <item>Thomas Bennet.</item>
+                  <item>John Lowry.</item>
+                  <item>Thomas Bendish.</item>
+                  <item>Thomas Fanshawe.</item>
+                  <item>Michael Dalton.</item>
+                  <item>Edward Leede.</item>
+               </list>
+               <list>
+                  <item>Henry Pickering.</item>
+                  <pb n="8" facs="tcp:169483:5"/>
+                  <item>Roger Rant.</item>
+                  <item>
+                     <hi>q.</hi> Major Ville.</item>
+                  <item>
+                     <hi>q.</hi> Philip Story.</item>
+                  <item>
+                     <hi>q.</hi> James Tomson.</item>
+                  <item>
+                     <hi>q.</hi> Thomas Symonds.</item>
+                  <item>Robert Hammond.</item>
+                  <item>
+                     <hi>q.</hi> Samuel Spalding.</item>
+                  <item>
+                     <hi>q.</hi> Thomas French.</item>
+                  <item>Richard Timbs.</item>
+                  <item>George Pike.</item>
+                  <item>Robert Robson.</item>
+                  <item>James Blackly.</item>
+               </list>
+            </div>
+            <div type="justices_of_CHESHIRE.">
+               <head>CHESHIRE.</head>
+               <list>
+                  <head>Quorum.</head>
+                  <item>William Lenthall, Sp.</item>
+                  <item>Oliver Cromwell. L.G.</item>
+                  <item>Thomas L. Fairfax.</item>
+                  <item>John Bradshaw, L. Pr.</item>
+                  <item>B. Whitlock, L. Com. of the great seal.</item>
+                  <item>Rich. Keble, L. Com. of the great seal.</item>
+                  <item>John Lisle, L. Com. of the great seal.</item>
+                  <item>Henry Roll, Lo. chief Just. of the up. bench.</item>
+                  <item>Thomas Fell, one of the Just. of chester.</item>
+                  <item>Humfry Mackworth.</item>
+                  <item>Edw. Prideaux, Att. G.</item>
+                  <item>George Booth, Kt. &amp; Br.</item>
+                  <item>William Brereton, Bar.</item>
+                  <item>Henry Delves, Baronet</item>
+                  <item>John Bradshaw, Attur. of Chester.</item>
+                  <item>Henry Brook.</item>
+                  <item>Thomas Stanley.</item>
+                  <item>Robert Duckenfield.</item>
+                  <item>Thomas Manwaring.</item>
+                  <item>Thomas Marbury.</item>
+                  <item>Thomas Brereton.</item>
+                  <item>Edward Hyde.</item>
+                  <item>Thomas Croxton.</item>
+                  <item>Jonathan Bruen.</item>
+                  <item>Peter Dutton.</item>
+                  <item>Henry Birkhened.</item>
+                  <item>Henry Bradshaw, Jun.</item>
+               </list>
+               <list>
+                  <item>Gilbert Gerrard,</item>
+                  <item>Henry Green.</item>
+                  <item>Richard Wright.</item>
+               </list>
+            </div>
+            <div type="justices_of_CORNWALL.">
+               <pb n="9" facs="tcp:169483:5"/>
+               <head>CORNWALL.</head>
+               <list>
+                  <head>Quorum,</head>
+                  <item>William Lenthall, Sp.</item>
+                  <item>Oliver Cromwel, L. G.</item>
+                  <item>John Bradshawe, L. Pr.</item>
+                  <item>Bulst. Whitlock L. C. of the gr. seal.</item>
+                  <item>Richard Keeble L. C. of the gr. seal.</item>
+                  <item>John Lisle, L. C. of the gr. seal.</item>
+                  <item>Henry Roll L. C. J. of the upper bench.</item>
+                  <item>Oliver St John, L. C. J. of the Com. Pleas.</item>
+                  <item>John Wilde, L. C. Bar.</item>
+                  <item>Rob. Nicholas one of the just. of up. bench.</item>
+                  <item>Edw. Prideaux, At. G.</item>
+                  <item>John Elliot.</item>
+                  <item>John St Aubon.</item>
+                  <item>John Moyle.</item>
+                  <item>John Trefusis.</item>
+                  <item>Francis Godolphin.</item>
+               </list>
+               <list>
+                  <item>Robert Rolles.</item>
+                  <item>
+                     <hi>q.</hi> Thomas Ceely.</item>
+                  <item>
+                     <hi>q.</hi> Nicholas Gold.</item>
+                  <item>James Eresay.</item>
+                  <item>
+                     <hi>q.</hi> Hugh Boscawen.</item>
+                  <item>
+                     <hi>q.</hi> Nicholas Trefusis.</item>
+                  <item>
+                     <hi>q.</hi> John Penrose.</item>
+                  <item>
+                     <hi>q.</hi> Richard Carter.</item>
+                  <item>Edward Hearle.</item>
+                  <item>
+                     <hi>q.</hi> Gregory Clement.</item>
+                  <item>
+                     <hi>q.</hi> George Kekewich.</item>
+                  <item>
+                     <hi>q.</hi> Robert Bennet.</item>
+                  <item>
+                     <hi>q</hi> Leonard Treise.</item>
+                  <item>William Glynne.</item>
+                  <item>James Lance.</item>
+                  <item>
+                     <hi>q.</hi> Christo Worthivall.</item>
+                  <item>John Vivian.</item>
+                  <item>Ezekiel Arscot.</item>
+                  <item>
+                     <hi>q.</hi> Anthony Rowse.</item>
+                  <item>
+                     <hi>q.</hi> John Carew.</item>
+                  <item>
+                     <hi>q.</hi> Peter Kekewich.</item>
+                  <item>Edward Nosworthy.</item>
+                  <item>Edward Prideaux, of Padstow.</item>
+                  <item>
+                     <hi>q.</hi> Edward Fowel.</item>
+                  <item>John Humphryes, jun.</item>
+                  <item>Francis Langden.</item>
+                  <item>Richard Lobbe.</item>
+                  <item>Richard Eresey.</item>
+                  <item>Andrew Trevil.</item>
+                  <item>John Jago.</item>
+               </list>
+            </div>
+            <div type="justices_of_CUMBERLAND.">
+               <pb n="10" facs="tcp:169483:6"/>
+               <head>CUMBERLAND.</head>
+               <list>
+                  <head>Quorum.</head>
+                  <item>William Lenthal, Sp.</item>
+                  <item>Olver Cromwel, Lord Gen.</item>
+                  <item>John Bradshawe, Lord President.</item>
+                  <item>Bulst Whitlock L. C. of the Gr. seal.</item>
+                  <item>Richard Keble L. C. of the Gr. seal.</item>
+                  <item>John Lisle. L. C. of the Gr. seal.</item>
+                  <item>Philip Lord Wharton.</item>
+                  <item>Edward Lord Howard.</item>
+                  <item>Henry Vain, Senio, Kt.</item>
+                  <item>Henry Roll, Lo. chief Justice of the upper bench.</item>
+                  <item>John Puleston, one of the Just. of the Com<g ref="char:EOLhyphen"/>mon Pleas.</item>
+                  <item>Peter Warberton, one of the Justices of the Common Pleas.</item>
+                  <item>Edward Prideaux, Att. Gen.</item>
+                  <item>William Armyn; Bar.</item>
+                  <item>Arthur Haslerig, Baron.</item>
+                  <item>Wilfrid Lawson, Kt.</item>
+                  <item>William Armyn.</item>
+                  <item>Richard Tolson.</item>
+                  <item>Francis Allen.</item>
+                  <item>Charles Howard.</item>
+                  <item>Robert Fenwick.</item>
+                  <item>William Briscoe.</item>
+                  <item>John Barwis.</item>
+                  <item>Thomas Lamplugh.</item>
+                  <item>Henry Tolson.</item>
+                  <item>John Shelton.</item>
+                  <item>Miles Halton.</item>
+                  <item>Thomas Curwen.</item>
+                  <item>Thomas Cholmley.</item>
+               </list>
+            </div>
+            <div type="justices_of_DARBYSHIRE">
+               <pb n="11" facs="tcp:169483:6"/>
+               <head>DARBYSHIRE.</head>
+               <list>
+                  <head>Quorum,</head>
+                  <item>William Lenthall, Sp.</item>
+                  <item>Oliver Cromwel, L.G.</item>
+                  <item>John Bradshawe, Lord President.</item>
+                  <item>Bulst. Whitlock L. C. of the gr. seal.</item>
+                  <item>Richard Keeble L. C. of the gr. seal.</item>
+                  <item>John Lisle, L. C. of the gr. seal.</item>
+                  <item>Philip, Earl of Pem<g ref="char:EOLhyphen"/>brok and Mountgom.</item>
+                  <item>Thomas Lo. Fairfax.</item>
+                  <item>Henry Roll, Lord chief Justice of the upper bench.</item>
+                  <item>Oliver St John, L. chief Just. of the common Pleas.</item>
+                  <item>Philip Jermyn one of the Just. of the upper bench.</item>
+                  <item>John Puliston, one of the Just. of the com<g ref="char:EOLhyphen"/>mon Pleas.</item>
+                  <item>Edward Prideaux, Att.</item>
+                  <item>Nicholas Leak.</item>
+                  <item>Francis Burdet, Baron.</item>
+                  <item>Edward Coke, Baronet.</item>
+                  <item>Edward Leech, Knight.</item>
+                  <item>Samuel Sleigh, Knight.</item>
+                  <item>John Gell.</item>
+                  <item>John Mundy.</item>
+                  <item>Nathancel Hollows.</item>
+                  <item>Robert Wilmot.</item>
+                  <item>Christopher Horton.</item>
+                  <item>Thomas Sanders.</item>
+                  <item>Randulph Assenhurst.</item>
+                  <item>Lionell Fanshawe.</item>
+                  <item>Francis Revel.</item>
+                  <item>Anthony Morewood.</item>
+                  <item>James Abney.</item>
+                  <item>William Woolley.</item>
+                  <item>Edward Gill.</item>
+                  <item>Robert Eyre.</item>
+                  <item>Edward Pegge.</item>
+                  <item>Ralph Clerk.</item>
+               </list>
+               <list>
+                  <item>William Bache.</item>
+                  <item>Edward Charlton.</item>
+                  <pb n="12" facs="tcp:169483:7"/>
+                  <item>Jervice Bennet.</item>
+                  <item>Edward Manlove.</item>
+                  <item>John Wright.</item>
+                  <item>Nathaneel Barton.</item>
+                  <item>John Spateman.</item>
+                  <item>Samuel Taylor.</item>
+               </list>
+            </div>
+            <div type="justices_of_DEVONSHIRE.">
+               <head>DEVONSHIRE.</head>
+               <list>
+                  <head>Quorum.</head>
+                  <item>William Lenthall, Sp.</item>
+                  <item>Oliver Cromwell, L.G.</item>
+                  <item>John Bradshawe, L. Pr.</item>
+                  <item>B. Whitlock, L. Com. of the great seal.</item>
+                  <item>Rich. Keble, L. Com. of the great seal.</item>
+                  <item>John Lisle L. Com. of the great seal.</item>
+                  <item>Alger. E. of Northumb.</item>
+                  <item>William E. of Salisb.</item>
+                  <item>Henry Roll, L. chief Just. of the up. bench.</item>
+                  <item>John Lisle.</item>
+                  <item>Rob. Nicholas, one of Just. of the up. bench.</item>
+                  <item>Edw. Prideaux, At. G.</item>
+                  <item>Francis Drake, Baron.</item>
+                  <item>John Pool, Baronet.</item>
+                  <item>Gregory Norton, Bar.</item>
+                  <item>Henry Rosewell, Kt:</item>
+                  <item>John Young, Knight.</item>
+                  <item>Nicolas Martin, Knight</item>
+                  <item>John Bampfield.</item>
+                  <item>Hugh Fortescue.</item>
+                  <item>Robert Roll.</item>
+                  <item>William Fry.</item>
+                  <item>John Drake.</item>
+                  <item>George Chudley.</item>
+                  <item>Arthur Upton.</item>
+                  <item>Edmund Arscot.</item>
+                  <item>Robert Savery.</item>
+                  <item>John Bury, of Bury.</item>
+                  <item>Robert Duke.</item>
+                  <item>Thomas Reynel.</item>
+                  <item>Josias Calmady.</item>
+                  <item>Francis Rowse.</item>
+                  <item>John Roll.</item>
+                  <item>Thomas Boon.</item>
+                  <item>Matthew Hele.</item>
+                  <item>John Carew.</item>
+                  <item>Henry Polixten.</item>
+                  <item>John Beare.</item>
+                  <item>Henry worth.</item>
+               </list>
+               <pb n="13" facs="tcp:169483:7"/>
+               <list>
+                  <item>Thomas Hatch.</item>
+               </list>
+               <list>
+                  <head>Quorum.</head>
+                  <item>John Woolacomb,</item>
+                  <item>Christopher Martin.</item>
+                  <item>Christopher Savery.</item>
+               </list>
+               <list>
+                  <item>Walter Yard.</item>
+               </list>
+               <list>
+                  <head>Quorum.</head>
+                  <item>Hugh Trevillian.</item>
+                  <item>John Champneis.</item>
+                  <item>Peter Bevis.</item>
+                  <item>Arthur Fortescue.</item>
+                  <item>Henry Henley.</item>
+                  <item>John Elford.</item>
+               </list>
+               <list>
+                  <item>Arthur Perryman.</item>
+                  <item>
+                     <hi>q.</hi> Thomas Drake.</item>
+                  <item>Rowland Whiddon.</item>
+                  <item>John Kelley.</item>
+                  <item>
+                     <hi>q.</hi> Christopher Wood.</item>
+                  <item>
+                     <hi>q.</hi> William Morris.</item>
+                  <item>
+                     <hi>q.</hi> John Quick.</item>
+                  <item>
+                     <hi>q.</hi> William Bastard.</item>
+                  <item>Henry Copleston.</item>
+                  <item>William Howel.</item>
+                  <item>John Tyrling.</item>
+                  <item>
+                     <hi>q.</hi> William Put.</item>
+                  <item>
+                     <hi>q.</hi> Edward Powel.</item>
+                  <item>John Fortescue.</item>
+               </list>
+               <list>
+                  <head>Quorum.</head>
+                  <item>Francis Glanvile.</item>
+                  <item>Robert Dillon.</item>
+                  <item>Robert Hatch.</item>
+                  <item>Henry Walter.</item>
+                  <item>George Prestwood.</item>
+                  <item>John Desturrowe.</item>
+                  <item>Thomas Sanders.</item>
+                  <item>Philip Croker.</item>
+               </list>
+               <list>
+                  <item>Philip Dennis.</item>
+                  <item>Richard Cole.</item>
+                  <item>Phillip Skippon.</item>
+                  <item>Morrice Rolles.</item>
+                  <item>John Doble.</item>
+                  <item>Robert Cockram.</item>
+                  <item>Richard Vicary.</item>
+                  <item>William Woolcombe.</item>
+               </list>
+            </div>
+            <div type="justices_of_DORCETSHIRE.">
+               <pb n="14" facs="tcp:169483:8"/>
+               <head>DORCETSHIRE.</head>
+               <list>
+                  <head>Quorum.</head>
+                  <item>William Lenthall, Sp.</item>
+                  <item>Oliver Cromwel, L. G.</item>
+                  <item>John Bradshawe, Lord President.</item>
+                  <item>B. Whitlock Lo. Com. of the great seal.</item>
+                  <item>Rich. Keblc Lo. Com. of the great seal.</item>
+                  <item>John Lifle Lo. Com. of the great seal.</item>
+                  <item>William E. of Salisb.</item>
+                  <item>Charles Cranberne.</item>
+                  <item>Thomas Lo. Gray of Groby.</item>
+                  <item>Henry Roll, Lo. chief Just. of the up. bench.</item>
+                  <item>Oliver St John, L. chief Justice of the com<g ref="char:EOLhyphen"/>mon Pleas.</item>
+                  <item>John Wilde, Lo. chief Baron.</item>
+                  <item>Robert Nicholas, one of the Justices of the up bench.</item>
+                  <item>Edw. Prideaux, Attur. Gen.</item>
+                  <item>Antony Asheley, Coo<g ref="char:EOLhyphen"/>per, Baronet.</item>
+                  <item>John Brown.</item>
+                  <item>John Trenchard.</item>
+                  <item>John Tregonwell.</item>
+                  <item>John Bingham.</item>
+                  <item>George Thornhul.</item>
+                  <item>Richard Brodrep.</item>
+                  <item>Roger Hill.</item>
+                  <item>Robert Coker.</item>
+                  <item>William Sydenham,</item>
+                  <item>John Pyne.</item>
+               </list>
+               <list>
+                  <item>Edward Hooper.</item>
+                  <item>
+                     <hi>q.</hi> Antonius Fleere.</item>
+                  <item>
+                     <hi>q.</hi> Denis Bond.</item>
+                  <item>
+                     <hi>q.</hi> William Carrant.</item>
+                  <item>
+                     <hi>q.</hi> John Fry.</item>
+                  <item>Francis Hollis.</item>
+                  <item>George Cooper.</item>
+                  <item>Robert Butler.</item>
+                  <item>Iohn Still.</item>
+                  <item>
+                     <hi>q.</hi> Hugh Windham.</item>
+                  <item>
+                     <hi>q.</hi> William Hussey.</item>
+                  <pb n="15" facs="tcp:169483:8"/>
+                  <item>
+                     <hi>q.</hi> John Fitzjames.</item>
+                  <item>John Hurden.</item>
+                  <item>
+                     <hi>q.</hi> Henry Henley.</item>
+                  <item>Christopher Erle.</item>
+                  <item>
+                     <hi>q.</hi> William Lawrence.</item>
+                  <item>John Whiteway.</item>
+                  <item>
+                     <hi>q.</hi> William Sydenham.</item>
+                  <item>Edward Butler.</item>
+                  <item>John Squib.</item>
+                  <item>Walter Foy.</item>
+                  <item>
+                     <hi>q.</hi> Thomas Gallop.</item>
+                  <item>John Minterne.</item>
+                  <item>John Arnold.</item>
+                  <item>John Mitchel.</item>
+                  <item>
+                     <hi>q.</hi> Roger Clavile.</item>
+                  <item>Lewes Williams.</item>
+               </list>
+            </div>
+            <div type="justices_of_DURHAM.">
+               <head>DURHAM.</head>
+               <list>
+                  <head>Quorum.</head>
+                  <item>William Lenthall, Sp.</item>
+                  <item>Oliver Cromwel, L. G.</item>
+                  <item>John Bradshawe, Lord President.</item>
+                  <item>B. Whitlock Lo. Com. of the great Seal.</item>
+                  <item>Rich Keble Lo. Com. of the great Seal.</item>
+                  <item>John Lisle Lo. Com. of the great Seal.</item>
+                  <item>Algernon, E. of Nor<g ref="char:EOLhyphen"/>thumberland.</item>
+                  <item>Henry Roll, Lo. chief justice of the upper bench.</item>
+                  <item>Francis Thorp. one of the Barons of the Ex<g ref="char:EOLhyphen"/>chequer.</item>
+                  <item>Peter Warberton, one of the justices of the Common Pleas.</item>
+                  <item>Henry Vane, Senior, Kt</item>
+                  <item>Arthur Haslerig, Kt. &amp; Baronet.</item>
+                  <item>Tho. Widdrinton, Kt.</item>
+                  <item>Henry Vane, jun. Kt.</item>
+                  <item>William Selby Kt.</item>
+                  <item>George Vane, Kt.</item>
+                  <item>William Vane.</item>
+                  <item>George Fenwick,</item>
+                  <item>Thomas Hasilrig.</item>
+                  <item>Thomas Liddel.</item>
+                  <item>Thomas Delevale.</item>
+                  <item>James Clavering.</item>
+                  <item>Christopher Fulthrop.</item>
+                  <pb n="16" facs="tcp:169483:9"/>
+                  <item>Mark Shaft.</item>
+                  <item>Francis Wren.</item>
+                  <item>Francis Hacker.</item>
+                  <item>Clement Fulthrop.</item>
+                  <item>Henry Warmouth.</item>
+                  <item>Robert Lilburne.</item>
+                  <item>Robert Fenwick.</item>
+                  <item>Thomas Ledgard.</item>
+                  <item>John Sleigh.</item>
+               </list>
+               <list>
+                  <item>William Sedgewick.</item>
+                  <item>Timothy Whittingham</item>
+                  <item>George Marwood.</item>
+                  <item>Major Durham.</item>
+                  <item>Major Berwick.</item>
+               </list>
+            </div>
+            <div type="justices_of_EBOR._EASTRIDING.">
+               <head>EBOR. EASTRIDING.</head>
+               <list>
+                  <head>Quorum.</head>
+                  <item>William Lenthal, Sp.</item>
+                  <item>Oliver Cromwel, Lord Gen.</item>
+                  <item>John Bradshaw, Lord President.</item>
+                  <item>Bulst Whitlock L. C. of the Gr. seal.</item>
+                  <item>Richard Keble L. C. of the Gr. seal.</item>
+                  <item>John Lisle. L. C. of the Gr. seal.</item>
+                  <item>Edward L. Howard.</item>
+                  <item>Henry Roll, L. C. J. of the upper bench.</item>
+                  <item>John Puliston one of the Just. of Com. Pl.</item>
+                  <item>Francis Thorp, one of the Barons of the Ex<g ref="char:EOLhyphen"/>chequer.</item>
+                  <item>Peter Warberton, one of the justices of com<g ref="char:EOLhyphen"/>mon Pleas.</item>
+                  <item>William Constable, Bar</item>
+                  <item>William Strickland, Kt and Baronet.</item>
+                  <item>William St. Quintin, Baronet.</item>
+                  <item>Richard Darley, Kt.</item>
+                  <item>John Bourchier, Kt.</item>
+                  <item>VVilliam Allenson, Kt.</item>
+                  <item>John Lister.</item>
+                  <item>John Alured.</item>
+                  <item>John Anlaby.</item>
+                  <item>Durand Hotham.</item>
+                  <item>Christopher Ridley.</item>
+                  <pb n="17" facs="tcp:169483:9"/>
+                  <item>Richard Pierson.</item>
+                  <item>Richard Edrington.</item>
+                  <item>Walter Strickland.</item>
+                  <item>Christopher Legard.</item>
+                  <item>Richard Darley.</item>
+                  <item>John Overton.</item>
+                  <item>Robert Overton.</item>
+                  <item>Hugh Bethel.</item>
+                  <item>Richard Robinson.</item>
+                  <item>Edward Wingate.</item>
+                  <item>Francis Carlile.</item>
+                  <item>Joseph Miklethwaite.</item>
+                  <item>John Shillington.</item>
+                  <item>James Nelthorp.</item>
+                  <item>Matthew Alured.</item>
+               </list>
+               <list>
+                  <item>Philip Saltmarsh.</item>
+                  <item>Richard Herbert.</item>
+                  <item>Thomas Stiring.</item>
+                  <item>Thomas Rookby.</item>
+                  <item>Randolph Carlile.</item>
+                  <item>Carolus Fenwick.</item>
+                  <item>William Gee.</item>
+                  <item>John Pearson.</item>
+                  <item>John Lodge.</item>
+               </list>
+            </div>
+            <div type="justices_of_EBOR._NORTHRIDING.">
+               <head>EBOR. NORTHRIDING.</head>
+               <list>
+                  <head>Quorum.</head>
+                  <item>William Lenthall, Sp.</item>
+                  <item>Oliver Cromwell. L.G.</item>
+                  <item>John Bradshaw, L. Pr.</item>
+                  <item>B. Whitlock, L. Com. of the great seal.</item>
+                  <item>Rich. Keble, L. Com. of the great seal.</item>
+                  <item>John Lisle. L. Com. of the great seal.</item>
+                  <item>Edw. E. of Mulgrave.</item>
+                  <item>Philip L. Wharton.</item>
+                  <item>Thomas L. Fairfax.</item>
+                  <item>Henry Roll, chief Just. of the upper bench.</item>
+                  <item>Edward L. Loftus.</item>
+                  <item>Francis Thorp, one of the Bar. of Excheq.</item>
+                  <item>Peter Warberton, one of the Justices of the Common pleas.</item>
+                  <item>Edw. Prideaux, Att. G.</item>
+                  <item>Will. Strickland, Kt. &amp; Bar.</item>
+                  <item>Richard Darley, Kt.</item>
+                  <item>John Bourchier, Kt.</item>
+                  <pb n="18" facs="tcp:169483:10"/>
+                  <item>William Allenson, Kt.</item>
+                  <item>Robert Berwick. Kt.</item>
+                  <item>Henry Francklin, Kt.</item>
+                  <item>Luke Robinson.</item>
+                  <item>Henry Darley.</item>
+                  <item>Thomas Chaloner.</item>
+                  <item>James Chaloner.</item>
+                  <item>John Wasted.</item>
+                  <item>Arthur Nowel.</item>
+                  <item>Barrington Bourchier.</item>
+                  <item>Ralph Reymer.</item>
+                  <item>Richard Etherington.</item>
+                  <item>John Turner.</item>
+                  <item>George Evere.</item>
+                  <item>Robert Waters.</item>
+                  <item>George Marwood.</item>
+                  <item>Francis Lassels.</item>
+                  <item>Isaac Newton.</item>
+                  <item>Thomas Dickenson.</item>
+                  <item>Matthew Beckwith.</item>
+                  <item>Reynold Covell.</item>
+                  <item>Henry Bethell.</item>
+                  <item>William Thornton.</item>
+                  <item>William Weddal.</item>
+                  <item>John Robinson.</item>
+                  <item>Christopher Perc<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hay.</item>
+                  <item>Henry Hall.</item>
+                  <item>John Worseley.</item>
+                  <item>Leonard Smelt.</item>
+                  <item>William Thornton.</item>
+               </list>
+            </div>
+            <div type="justices_of_EBOR._WESTRIDING.">
+               <head>EBOR. WESTRIDING.</head>
+               <list>
+                  <head>Quorum.</head>
+                  <item>William Lenthal, Sp.</item>
+                  <item>Oliver Cromwell, L.G.</item>
+                  <item>John Bradshaw, L. Pr.</item>
+                  <item>
+                     <hi>B.</hi> Whitlock, L. Com. of the great. seal.</item>
+                  <item>Rich. Keble L. Com. of the great. seal.</item>
+                  <item>John Lisle, L. Com. of the great. seal.</item>
+                  <item>Philip L. Wharton.</item>
+                  <item>Thomas L. Fairfax.</item>
+                  <item>Henry Roll, L. C. J. of the upper bench.</item>
+                  <item>Francis Thorp one of the Barons of the Ex<g ref="char:EOLhyphen"/>chequer.</item>
+                  <item>Peter Warberton, one of the Justices of the Com. Pleas.</item>
+                  <pb n="19" facs="tcp:169483:10"/>
+                  <item>Edw. Prideaux, At. G.</item>
+                  <item>Will. Strickland, Kt. &amp; Baronet.</item>
+                  <item>Tho. Maleverer, Bar.</item>
+                  <item>John Bourchier, Knight</item>
+                  <item>Arthur Ingram, Knight.</item>
+                  <item>Tho. Widdrington, Kt.</item>
+                  <item>Tho. Wentworth, Kt.</item>
+                  <item>Rich. Haukesworth, Kt.</item>
+                  <item>Edward Rhodes, Kt.</item>
+                  <item>Robert Barwick, Kt.</item>
+                  <item>Charles Fairfax.</item>
+                  <item>John Savile.</item>
+                  <item>John Savile.</item>
+                  <item>John Lambert.</item>
+                  <item>Godfrey Bosevile.</item>
+                  <item>Henry Ardington.</item>
+                  <item>William White.</item>
+                  <item>Thomas Stockdale.</item>
+                  <item>Miles Stapleton.</item>
+                  <item>John Dawney.</item>
+                  <item>John Bright.</item>
+                  <item>William Armitage.</item>
+                  <item>John Maleverer.</item>
+                  <item>Tho St. Nicholas.</item>
+                  <item>Henry Ardington.</item>
+                  <item>John Clayton.</item>
+                  <item>Thomas Dickenson.</item>
+                  <item>Henry Tempest.</item>
+                  <item>William Ingolsby.</item>
+                  <item>George Marwood.</item>
+                  <item>Darcey Wentworth.</item>
+                  <item>John Odingsell.</item>
+                  <item>Christopher Copeley.</item>
+                  <item>John Hewly.</item>
+                  <item>William Bosewell.</item>
+                  <item>Alexander Johnson.</item>
+                  <item>John Farrar.</item>
+               </list>
+               <list>
+                  <item>John Stanhop.</item>
+                  <item>Ralph Baynes.</item>
+                  <item>John Shillington.</item>
+                  <item>Henry Savile.</item>
+                  <item>Robert Skerne.</item>
+                  <item>John Ashton.</item>
+                  <item>Thomas Westby.</item>
+                  <item>John Copley.</item>
+                  <item>Thomas Robson.</item>
+                  <item>Thomas Posweel.</item>
+                  <item>Walter Hawkesworth.</item>
+                  <item>Roger coates.</item>
+                  <item>John Twisleton.</item>
+                  <item>Lawrence Parsons.</item>
+               </list>
+            </div>
+            <div type="justices_of_ELIE.">
+               <pb n="20" facs="tcp:169483:11"/>
+               <head>ELIE.</head>
+               <list>
+                  <head>Quorum.</head>
+                  <item>William Lenthal, Sp.</item>
+                  <item>Oliver Cromwel, Lord</item>
+                  <item>General.</item>
+                  <item>John Bradshaw, Lo. President.</item>
+                  <item>Bulst. Whitlock L. Com<g ref="char:EOLhyphen"/>mission. of the gr. seal.</item>
+                  <item>Richard Keble L. Com<g ref="char:EOLhyphen"/>mission. of the gr. seal.</item>
+                  <item>John Lisle L. Com<g ref="char:EOLhyphen"/>mission. of the gr. seal.</item>
+                  <item>Dudley, Lord North.</item>
+                  <item>Henry Roll, L. C. J. of the upper bench.</item>
+                  <item>Oliver St. John, L. C. J. of the Com. Pleas.</item>
+                  <item>Edward Atkins, one of the Just. of the com. Pleas.</item>
+                  <item>Richard Aske, one of the Just. of the upper Bench.</item>
+                  <item>Robert Barnard, Ser<g ref="char:EOLhyphen"/>jeant at Law.</item>
+                  <item>Arthur Turner, Serje<g ref="char:EOLhyphen"/>ant at Law.</item>
+                  <item>John Green, Sarjeant at Law.</item>
+                  <item>Dudley North, Knight</item>
+                  <item>Miles Sands, Knight &amp; Baronet.</item>
+                  <item>Valentine Wauton.</item>
+                  <item>Thomas Marsh.</item>
+                  <item>Everard Buckworth.</item>
+                  <item>George Coney.</item>
+                  <item>John Hobert.</item>
+                  <item>Thomas Fincham.</item>
+                  <item>Thomas Castle.</item>
+                  <item>John Desbrowe.</item>
+                  <item>Tristram Diamond.</item>
+                  <item>Richard Stane, Dr. of of Physick.</item>
+                  <item>George Glapthorn.</item>
+               </list>
+               <list>
+                  <item>John Towers.</item>
+                  <item>William Barnes.</item>
+               </list>
+            </div>
+            <div type="justices_of_ESSEX">
+               <pb n="21" facs="tcp:169483:11"/>
+               <head>ESSEX.</head>
+               <list>
+                  <head>Quorum.</head>
+                  <item>William Lenthal, Sp.</item>
+                  <item>Oliver Cromwel, Lord Gen.</item>
+                  <item>John Bradshaw, Lord President.</item>
+                  <item>Bulst Whitlock L. C. of the Gr. seal.</item>
+                  <item>Richard Keble L. C. of the Gr. seal.</item>
+                  <item>John Lisle. L. C. of the Gr. seal.</item>
+                  <item>Henry Earl of Kent.</item>
+                  <item>Robert Earl of War<g ref="char:EOLhyphen"/>wick.</item>
+                  <item>William Lord Gray of Wark.</item>
+                  <item>Henry Roll, L. C. J. of the upper bench.</item>
+                  <item>Oliver St. John, L. C. J. of the Com. Pleas.</item>
+                  <item>John wilde, Lord chief Baron of the Excheq.</item>
+                  <item>Peter Warberton, one of the Justices of the Com. Pleas.</item>
+                  <item>Richard Aske, one of the Justices of the up<g ref="char:EOLhyphen"/>per bench.</item>
+                  <item>Edward Atkins, one of the just. of the Com. Pleas.</item>
+                  <item>Edward Prideaux, Att. Gen.</item>
+                  <item>John Barrington, Kt. and Baronet.</item>
+                  <item>William Masham, Bar.</item>
+                  <item>Richard Everard, Bar.</item>
+                  <item>Henry Mildmay, Kt.</item>
+                  <item>Nathan. Barnardiston, Knight.</item>
+                  <item>Tho. Honywood, Kt.</item>
+                  <item>William Rowe, Kt.</item>
+                  <item>Thomas Bowes, Kt.</item>
+                  <item>Tho. Barnardiston, Kt.</item>
+                  <item>Arthur Turner, Serje<g ref="char:EOLhyphen"/>ant at Law.</item>
+                  <item>John Green, Serjeant at Law.</item>
+                  <item>William Conyers, Ser<g ref="char:EOLhyphen"/>jeant at Law.</item>
+                  <item>William Steel, Recor<g ref="char:EOLhyphen"/>der of London.</item>
+                  <pb n="22" facs="tcp:169483:12"/>
+                  <item>Edward Elkenhead, M<seg rend="sup">r</seg>. of the Chancery.</item>
+                  <item>William Masham.</item>
+                  <item>John Sayer.</item>
+                  <item>Hen. Mildmay of Graces</item>
+                  <item>James Temple.</item>
+                  <item>Timothy Middleton.</item>
+                  <item>Nathaneel Bacon.</item>
+                  <item>Aaron Geurdam Dr. of</item>
+                  <item>Physick.</item>
+                  <item>Gobert arrington.</item>
+                  <item>Oliver Rayman.</item>
+                  <item>Robert Smith.</item>
+                  <item>Thomas cook.</item>
+                  <item>Joachim Matthews.</item>
+                  <item>George Tompson.</item>
+                  <item>John Eden.</item>
+                  <item>Edward Brickhead.</item>
+                  <item>Anthony Mildmay.</item>
+                  <item>Dean Tindall</item>
+                  <item>Samson Sheffeild.</item>
+                  <item>Richard Harlackenden.</item>
+                  <item>Thomas Ayleffe.</item>
+                  <item>Arthur Barnardiston.</item>
+                  <item>Carey Mildmay.</item>
+                  <item>John Atwood.</item>
+                  <item>Dionisius wakering.</item>
+                  <item>Richard Cuts.</item>
+                  <item>Nathaneel Rich.</item>
+                  <item>Isaac Allen of Haseley.</item>
+                  <item>Tho. cook of Chishill.</item>
+               </list>
+               <list>
+                  <item>John Sparrone.</item>
+                  <item>Henry Wollaston.</item>
+                  <item>John Lockey.</item>
+                  <item>Isaac Winkall.</item>
+                  <item>Jeremias Aylet.</item>
+                  <item>Richard Wiseman.</item>
+                  <item>
+                     <hi>q.</hi> Daniel Andrews.</item>
+                  <item>William Harlackenden</item>
+                  <item>William Collard.</item>
+                  <item>Robert Crane.</item>
+                  <item>Christopher Earle.</item>
+                  <item>
+                     <hi>q.</hi> William Harlacken<g ref="char:EOLhyphen"/>den of Yieldham.</item>
+                  <item>John Little.</item>
+                  <item>John Sanford.</item>
+                  <item>George Pike.</item>
+                  <item>John Pashall.</item>
+                  <item>Thomas Manby.</item>
+                  <item>Christo. Muschamp.</item>
+                  <item>John Guy.</item>
+                  <item>William Jermyn.</item>
+               </list>
+            </div>
+            <div type="justices_of_GLOUCESTER">
+               <pb n="23" facs="tcp:169483:12"/>
+               <head>GLOUCESTER.</head>
+               <list>
+                  <head>Quorum.</head>
+                  <item>William Lenthall, Sp.</item>
+                  <item>Oliver Cromwel, L. G.</item>
+                  <item>John Bradshawe, Lord</item>
+                  <item>President.</item>
+                  <item>B. Whitlock Lo. Com. of the great Seal.</item>
+                  <item>Rich Keble Lo. Com. of the great Seal.</item>
+                  <item>John Lisle Lo. Com. of the great Seal.</item>
+                  <item>Oliver St John, L. chief Justice of the Com<g ref="char:EOLhyphen"/>mon Pleas.</item>
+                  <item>John Wilde, Lo. chief Baron.</item>
+                  <item>Richard Aske, one of the justices of the up<g ref="char:EOLhyphen"/>per bench.</item>
+                  <item>Phillip Jermyn, one of the justices of the up<g ref="char:EOLhyphen"/>per bench.</item>
+                  <item>Robert Nicholas, one of the Justices of the up. bench.</item>
+                  <item>Edw. Prideaux, Attur. Gen.</item>
+                  <item>George Barkley.</item>
+                  <item>William Constable, Kt.</item>
+                  <item>Giles Overbury, Kt.</item>
+                  <item>Nathaneel Stephens.</item>
+                  <item>Edward Popham.</item>
+                  <item>John Phettiplace.</item>
+                  <item>William Guise.</item>
+                  <item>William Cook.</item>
+                  <item>William Leigh.</item>
+                  <item>Thomas Estcourt.</item>
+                  <item>Thomas Hedges.</item>
+                  <item>John Codrington.</item>
+                  <item>John Howe.</item>
+                  <item>Job Deighton.</item>
+                  <item>John Stephens.</item>
+                  <item>William Stafford.</item>
+                  <item>John Fouke, Alderman of London.</item>
+                  <item>John Kyte.</item>
+                  <item>Philip Langley.</item>
+                  <item>Robert Kyrle.</item>
+                  <item>William Shepherd.</item>
+                  <item>Silvanus Wood.</item>
+                  <pb n="24" facs="tcp:169483:13"/>
+                  <item>Edward Rich.</item>
+                  <item>William Bourcher.</item>
+                  <item>Matthew Huntley.</item>
+                  <item>Richard Ayleworth.</item>
+                  <item>Samuel Codrington.</item>
+                  <item>William Brown.</item>
+                  <item>Thomas Bulstrode.</item>
+                  <item>James Hawkins.</item>
+                  <item>Anthony Kingscot.</item>
+                  <item>Vincent Gookin.</item>
+                  <item>Thomas James.</item>
+                  <item>John Dennis.</item>
+                  <item>Thomas Chamberlin.</item>
+                  <item>John Barnard.</item>
+                  <item>Henry Stratford.</item>
+               </list>
+               <list>
+                  <item>Nathaneel Cripps.</item>
+                  <item>
+                     <hi>q.</hi> George Ken.</item>
+                  <item>Roger Havard.</item>
+                  <item>Jeremiah Buck.</item>
+                  <item>John Gearing.</item>
+                  <item>
+                     <hi>q.</hi> William Selwyn.</item>
+                  <item>William Nest.</item>
+                  <item>
+                     <hi>q.</hi> Robert Holmes.</item>
+                  <item>
+                     <hi>q.</hi> Giles Hancock.</item>
+                  <item>Andrew Sallys.</item>
+                  <item>
+                     <hi>q.</hi> John How.</item>
+                  <item>William Hopton.</item>
+                  <item>Thomas Walter.</item>
+                  <item>William Webley.</item>
+                  <item>Thomas Wall.</item>
+                  <item>Robert Waterworth.</item>
+                  <item>John Wade.</item>
+                  <item>Stephen Fowler.</item>
+                  <item>Thomas Morse.</item>
+                  <item>John Coxwell.</item>
+                  <item>George Reymond.</item>
+                  <item>Samuel Trotman.</item>
+                  <item>John Goodwin.</item>
+               </list>
+            </div>
+            <div type="justices_of_HEREFORD.">
+               <head>HEREFORD.</head>
+               <list>
+                  <head>Quorum.</head>
+                  <item>William Lenthall, Sp.</item>
+                  <item>Oliver Cromwel, Lord General.</item>
+                  <item>John Bradshaw, Lord President.</item>
+                  <item>B. Whitlock, L. Com. of the great seal.</item>
+                  <item>Rich Keble, L. Com. of the great seal.</item>
+                  <item>John Lisle L. Com. of the great seal.</item>
+                  <item>Henry Roll, L. C. J. of the upper bench.</item>
+                  <pb n="25" facs="tcp:169483:13"/>
+                  <item>John Wilde, Lo. chief Baron.</item>
+                  <item>Richard Aske, one of the Just. of the upper bench.</item>
+                  <item>Philip Jermyn, one of the Just, of the upper bench.</item>
+                  <item>Robert Nicholas, one of the Justices of the Com. Pleas.</item>
+                  <item>Edward Prideaux, Att. Gen.</item>
+                  <item>John Kirle, Baronet.</item>
+                  <item>John Bridges, Baronet.</item>
+                  <item>Gilbert Cornwall, Kt.</item>
+                  <item>Richard Hopton, Kt.</item>
+                  <item>Thomas Harrison.</item>
+                  <item>William Littleton.</item>
+                  <item>Edward Pitt.</item>
+                  <item>Robert Kirle.</item>
+                  <item>William Jeffreys.</item>
+                  <item>Bridstock Harford.</item>
+                  <item>Ambrose Elton.</item>
+                  <item>John Peteshall.</item>
+                  <item>Walter Kirle.</item>
+                  <item>Bennet Hoskins.</item>
+                  <item>Job Charleton.</item>
+                  <item>Richard Rede.</item>
+                  <item>Thomas Baskervile.</item>
+                  <item>Silvanus Taylor.</item>
+                  <item>Richard Hopton.</item>
+                  <item>Henry Martin.</item>
+                  <item>John Flasket.</item>
+                  <item>Ambros Elton.</item>
+                  <item>Thomas Rawlins.</item>
+                  <item>John James.</item>
+                  <item>Francis Pember.</item>
+                  <item>Henry Williams.</item>
+               </list>
+               <list>
+                  <item>John Cholmley.</item>
+                  <item>Thomas Cook.</item>
+                  <item>
+                     <hi>q.</hi> Wroth Rogers.</item>
+                  <item>Richard Dolphin.</item>
+                  <item>Ruddall Guillim.</item>
+                  <item>John Herring.</item>
+                  <item>Isaac Seward.</item>
+                  <item>
+                     <hi>q.</hi> John Scudamore.</item>
+                  <item>John Steward.</item>
+                  <item>Walter Merrick.</item>
+                  <item>Charles Darley.</item>
+                  <item>Arthur Cockram.</item>
+               </list>
+            </div>
+            <div type="justices_of_HARTFORD">
+               <pb n="26" facs="tcp:169483:14"/>
+               <head>HARTFORD.</head>
+               <list>
+                  <head>Quorum.</head>
+                  <item>William Lenthall, Sp.</item>
+                  <item>Oliver cromwel, L G.</item>
+                  <item>John Bradshawe, L. Pr.</item>
+                  <item>B. Whitlock Lo. Com. of the great seal.</item>
+                  <item>Rich. Keble Lo. Com. of the great seal.</item>
+                  <item>John Lisle Lo. Com. of the great seal.</item>
+                  <item>William E. of Salisb.</item>
+                  <item>William Lo. Gray of Wark.</item>
+                  <item>Edward L. Howard.</item>
+                  <item>Thomas Lord Fairfax</item>
+                  <item>Henry Roll, Lo. chief Just. of the up. bench.</item>
+                  <item>Oliver St. John, L. chief Just. of the Com Pl.</item>
+                  <item>Peter Warberton, one of the justices of com<g ref="char:EOLhyphen"/>mon Pleas.</item>
+                  <item>Richard Ask one of the Justices of the upper bench.</item>
+                  <item>Edward Atkins one of the Just. of Com. Pleas</item>
+                  <item>Richard Lucy, Knight and Baronet.</item>
+                  <item>Robert Cicil, Esq;.</item>
+                  <item>John Read, Baronet.</item>
+                  <item>Brocket Spencer, Bar.</item>
+                  <item>Thomas Hewet, Kt.</item>
+                  <item>John Wiltwrong. Kt.</item>
+                  <item>William Rowe, Kt.</item>
+                  <item>Robert Atkins.</item>
+                  <item>Aaron Geurdam, Dr. of Physick.</item>
+                  <item>Thomas Barnardiston.</item>
+                  <item>William Ashton.</item>
+                  <item>Thomas Dokcra.</item>
+                  <item>Thomas Took.</item>
+                  <item>Ralph Freeman.</item>
+                  <item>William Leaman.</item>
+                  <item>Gravely Norton.</item>
+                  <item>Edward Smith.</item>
+                  <item>Henry Ewre.</item>
+                  <item>John Robotham.</item>
+                  <item>John Fotherley.</item>
+                  <item>Richard Goulstod.</item>
+                  <item>John King.</item>
+                  <item>John Lookley.</item>
+                  <pb n="27" facs="tcp:169483:14"/>
+                  <item>Richard Blackwell.</item>
+                  <item>John Scroggs.</item>
+                  <item>Isaac Puller.</item>
+                  <item>Albion Cocks.</item>
+                  <item>John Marsh.</item>
+                  <item>William Carter.</item>
+                  <item>Richard Wood.</item>
+                  <item>Thomas Nichols.</item>
+                  <item>Thomas Knightley.</item>
+                  <item>William Beamount.</item>
+                  <item>Henry Gardiner.</item>
+                  <item>George Smith.</item>
+               </list>
+            </div>
+            <div type="justices_of_HUNTSHIRE.">
+               <head>HUNTSHIRE.</head>
+               <list>
+                  <head>Quorum.</head>
+                  <item>William Lenthall. Sp.</item>
+                  <item>Oliver Cromwel, L. G.</item>
+                  <item>John Bradshaw, L. Pres.</item>
+                  <item>B Whitlock, L. Com. of the great seal.</item>
+                  <item>Rich. Keble, L. Com. of the great seal.</item>
+                  <item>John Lisle L. Com. of the great seal.</item>
+                  <item>Thomas L. Fairfax.</item>
+                  <item>Henry Roll, L. C. J. of the upper bench.</item>
+                  <item>Oliver St John, L. C. J. of the Com. Pleas.</item>
+                  <item>Edw. Atkins, one of the just. of the Com. Pl.</item>
+                  <item>Rich. Aske, one of the just. of the up. Bench.</item>
+                  <item>Edw. Prideaux, At. G.</item>
+                  <item>Beauchamp St. John, Knight.</item>
+                  <item>Thomas Cotton, Bar.</item>
+                  <item>William Armyn, Bar.</item>
+                  <item>Robert Barnard, Ser<g ref="char:EOLhyphen"/>jeant at Law.</item>
+                  <item>Edward Montague.</item>
+                  <item>Onslow Winch.</item>
+                  <item>Valentine Wanton.</item>
+                  <item>William Leaman.</item>
+                  <item>Abraham Burrel.</item>
+                  <item>John Castell.</item>
+                  <item>James Ravenscroft.</item>
+                  <item>Nicholas Pedley.</item>
+               </list>
+               <pb n="28" facs="tcp:169483:15"/>
+               <list>
+                  <item>Adam Hill.</item>
+                  <item>Richard Wyne.</item>
+                  <item>Robert Wynter.</item>
+                  <item>Robert Harvey.</item>
+                  <item>Cater Esq;.</item>
+               </list>
+            </div>
+            <div type="justices_of_KENT.">
+               <head>KENT.</head>
+               <list>
+                  <head>Quorum.</head>
+                  <item>William Lenthall. Sp.</item>
+                  <item>Oliver Cromwel, L. G.</item>
+                  <item>John Bradshaw, L. Pres.</item>
+                  <item>B. Whitlock, L. Com. of the great seal.</item>
+                  <item>Rich. Keble, L. Com. of the great seal.</item>
+                  <item>John Lisle. L. Com. of the great seal.</item>
+                  <item>William, Lo. Viscount Mounson.</item>
+                  <item>Philip, Lord Lisle.</item>
+                  <item>Thomas L. Fairfax.</item>
+                  <item>Henry Vane Senior, Kt.</item>
+                  <item>Henry Roll, L. C. J. of the upper bench.</item>
+                  <item>Oliver St John, L. C. J. of the Com. Pleas.</item>
+                  <item>John Wilde, Lo. chief Baron of the Excheq.</item>
+                  <item>Edw. Atkins, one of the just. of the Com. Pl.</item>
+                  <item>John Green, Serjeant at Law.</item>
+                  <item>Edward Prideaux, Att. Gen.</item>
+                  <item>Algernon Sidney, Esq;</item>
+                  <item>John Rivers Baronet.</item>
+                  <item>Humfry Style, Knight and Baronet.</item>
+                  <item>Michael Levesey, Ba<g ref="char:EOLhyphen"/>ronet.</item>
+                  <item>Will. Strickland, Kt. &amp; Baronet.</item>
+                  <item>Henry Hayman, Kt. &amp; Baronet.</item>
+                  <item>Thomas Walsingham, Baronet.</item>
+                  <item>Edward Gilbourne, Kt.</item>
+                  <item>Henry Vane Junior, Knight.</item>
+                  <item>Nicholas Miller, Kt.</item>
+                  <item>Peter Godfrey, Knight.</item>
+                  <item>William Steel, Recor<g ref="char:EOLhyphen"/>der of London.</item>
+                  <pb n="29" facs="tcp:169483:15"/>
+                  <item>Edw. Eltonhead, one of the Masters of the Chancery.</item>
+                  <item>George Duck.</item>
+                  <item>Augustine Skinner.</item>
+                  <item>Henry Wyat.</item>
+                  <item>Richard Welden.</item>
+                  <item>James Temple.</item>
+                  <item>John Fowle.</item>
+                  <item>William James.</item>
+                  <item>Thomas Donne.</item>
+                  <item>Robert Scot.</item>
+                  <item>John Dixwell.</item>
+                  <item>William Say.</item>
+                  <item>VVilliam Boys.</item>
+                  <item>Thomas Blunt.</item>
+                  <item>Edward Rivers.</item>
+                  <item>Richard Amhurst.</item>
+                  <item>Gregory Clement.</item>
+                  <item>Richard Beal.</item>
+                  <item>John Nutt.</item>
+                  <item>William Kenwrick.</item>
+                  <item>Lambert Godfry.</item>
+                  <item>Robert Wevel.</item>
+                  <item>William Skinner.</item>
+                  <item>Aaron Geurdam, Dr. of Physick.</item>
+                  <item>Thomas Barnardiston.</item>
+                  <item>George Haule.</item>
+                  <item>Thomas St. Nicholas.</item>
+               </list>
+               <list>
+                  <item>John Holland.</item>
+                  <item>
+                     <hi>q.</hi> John Parker.</item>
+                  <item>Edward Ady.</item>
+                  <item>
+                     <hi>q.</hi> Thomas Plommer.</item>
+                  <item>
+                     <hi>q.</hi> Robert Hales.</item>
+                  <item>Edward Ashe.</item>
+                  <item>George Thomson.</item>
+                  <item>
+                     <hi>q.</hi> Richard Bowen.</item>
+                  <item>Thomas Broadneaux, junior.</item>
+                  <item>
+                     <hi>q.</hi> John Twisleton.</item>
+                  <item>
+                     <hi>q.</hi> Richard Porter.</item>
+                  <item>Thomas Smith.</item>
+                  <item>
+                     <hi>q.</hi> Augustine Garland.</item>
+                  <item>
+                     <hi>q.</hi> Thomas Scot.</item>
+                  <item>
+                     <hi>q.</hi> Peter Buck.</item>
+                  <item>
+                     <hi>q.</hi> Edward Scot.</item>
+                  <item>
+                     <hi>q.</hi> Thomas Foshe.</item>
+                  <item>
+                     <hi>q.</hi> Thomas Paramour.</item>
+                  <item>
+                     <hi>q.</hi> Whittingham Wood</item>
+                  <item>
+                     <hi>q.</hi> John Seyhard.</item>
+                  <item>Anthony Samuel.</item>
+                  <item>
+                     <hi>q.</hi> Peter Pett.</item>
+                  <item>
+                     <hi>q.</hi> Charles Bowles.</item>
+                  <item>
+                     <hi>q.</hi> John Osborne.</item>
+                  <item>George Cadwell.</item>
+                  <item>George Jackson.</item>
+                  <item>
+                     <hi>q.</hi> Henry Jowles.</item>
+                  <item>
+                     <hi>q.</hi> Thomas Monins.</item>
+                  <item>William Maddox.</item>
+               </list>
+            </div>
+            <div type="justices_of_LEICEST._SHIRE">
+               <pb n="30" facs="tcp:169483:16"/>
+               <head>LEICEST. SHIRE.</head>
+               <list>
+                  <head>Quorum,</head>
+                  <item>William Lenthall, Sp.</item>
+                  <item>Oliver Cromwell, L. G.</item>
+                  <item>John Bradshaw, L. Pres.</item>
+                  <item>Bul Whitlock, L. Com. of the Gr. seal.</item>
+                  <item>Richard Keble, L. Com. of the Gr. seal.</item>
+                  <item>John Lisle, L. Com. of the Gr. seal.</item>
+                  <item>Henry Earl of Kent.</item>
+                  <item>Henry E. of Stamford.</item>
+                  <item>Thomas Lord Gray of Groby.</item>
+                  <item>Bennet Lord Sherard.</item>
+                  <item>Thomas, Lord Fairfax.</item>
+                  <item>Henry Roll, L. C. Just. of the upper Bench.</item>
+                  <item>Oliver St. John. L.C.J. of the Com. Pleas.</item>
+                  <item>John Wilde, L. C. Bar. of the Excheq.</item>
+                  <item>Philip Jermyn, one of the just. of up. bench.</item>
+                  <item>John Puleston, one of the just of Com Pleas.</item>
+                  <item>Edw. Prideaux, Att. G.</item>
+                  <item>Arthur Haslerig, Bar.</item>
+                  <item>Edward Hartop. Bar.</item>
+                  <item>Thomas Hartop. Kt.</item>
+                  <item>Thom. chapman, Ser<g ref="char:EOLhyphen"/>jeant at Law.</item>
+                  <item>John St. John.</item>
+                  <item>Thomas Beamont.</item>
+                  <item>Richard Newdigate.</item>
+                  <item>Henry Smith.</item>
+                  <item>William Quarles.</item>
+                  <item>Peter Temple.</item>
+                  <item>Gassibilian Burton.</item>
+                  <item>John Brown.</item>
+                  <item>Thomas Brudnel.</item>
+                  <item>Simon Ridgley.</item>
+                  <item>John Whatton.</item>
+                  <item>William Hartop.</item>
+                  <item>William Banbridge.</item>
+               </list>
+               <list>
+                  <item>
+                     <hi>q.</hi> Thomas VVaite.</item>
+                  <item>
+                     <hi>q.</hi> Thomas Haslerig.</item>
+                  <item>James Abney.</item>
+                  <item>
+                     <hi>q.</hi> VVilliam Hewet.</item>
+                  <item>Arthur Staveley.</item>
+                  <item>
+                     <hi>q.</hi> VVilliam Danvers.</item>
+                  <pb n="31" facs="tcp:169483:16"/>
+                  <item>Gamaliel Purefoy.</item>
+                  <item>Henry Danvers.</item>
+                  <item>
+                     <hi>q.</hi> Thomas Bannister.</item>
+                  <item>Francis Hacker.</item>
+                  <item>Thomas Pochen.</item>
+                  <item>John Goodman.</item>
+                  <item>John Prat.</item>
+                  <item>Henry Markham.</item>
+               </list>
+            </div>
+            <div type="justices_of_LINCOLN._HOLLAND.">
+               <head>LINCOLN. HOLLAND.</head>
+               <list>
+                  <head>Quorum.</head>
+                  <item>William Lenthall, Sp.</item>
+                  <item>Oliver cromwel, L.G.</item>
+                  <item>John Bradshawe, L. Pr.</item>
+                  <item>Bulst. Whitlock L. C. of the gr. seal.</item>
+                  <item>Richard Keble L. C. of the gr. seal.</item>
+                  <item>John Lisle, L. C. of the gr. seal.</item>
+                  <item>Robert Earl of VVar<g ref="char:EOLhyphen"/>wick.</item>
+                  <item>Edward Earl of Mul<g ref="char:EOLhyphen"/>grave.</item>
+                  <item>Henry Roll L.C.J. of the upper bench.</item>
+                  <item>Oliver St John, L.C.J. of the Com. Pleas.</item>
+                  <item>Philip Jermyn, one of the Justices of the up<g ref="char:EOLhyphen"/>per bench.</item>
+                  <item>John Puleston, one of the Just. of the Com<g ref="char:EOLhyphen"/>mon Pleas.</item>
+                  <item>Peter Warberton, one of the Justices of the Common Pleas.</item>
+                  <item>Edward Prideaux, Att. Gen.</item>
+                  <item>William Armyn, Bar.</item>
+                  <item>Will. Brownlow, Bar.</item>
+                  <item>Thomas Lister.</item>
+                  <item>William Ellis.</item>
+                  <item>John Sotherton.</item>
+                  <item>John Harrington.</item>
+                  <item>John Hobson.</item>
+                  <item>Samuel Cust.</item>
+                  <item>Thomas Hall.</item>
+                  <item>William Hobson,</item>
+                  <item>John Wilsby.</item>
+                  <item>Edward Tilson.</item>
+                  <item>Francis Mussendin.</item>
+                  <pb n="32" facs="tcp:169483:17"/>
+                  <item>Humphry Walcot.</item>
+                  <item>Leonard Brown.</item>
+                  <item>Richard Cust.</item>
+                  <item>Charles Empson.</item>
+                  <item>Edward Syler.</item>
+               </list>
+               <list>
+                  <item>John Whiteigh.</item>
+               </list>
+            </div>
+            <div type="justices_of_LINCOLN._KESTEVEW.">
+               <head>LINCOLN. KESTEVEW.</head>
+               <list>
+                  <head>Quorum.</head>
+                  <item>William Lenthall, Sp.</item>
+                  <item>Oliver cromwel, L.G.</item>
+                  <item>John Bradshaw, L. Pre.</item>
+                  <item>Bulst. Whitlock L. C. of the gr. seal.</item>
+                  <item>Richard Keble L. C. of the gr. seal.</item>
+                  <item>John Lisle, L. C. of the gr. seal.</item>
+                  <item>Robert Earl of VVar<g ref="char:EOLhyphen"/>wick.</item>
+                  <item>Edward Earl of Mul<g ref="char:EOLhyphen"/>grave.</item>
+                  <item>Will. Pierpoint, Esq;.</item>
+                  <item>Francis Pierpoint, Esq;</item>
+                  <item>Henry Roll L.C.J. of the upper bench.</item>
+                  <item>Oliver St John, L.C.J. of the Com. Pleas.</item>
+                  <item>Philip Jermyn, one of the Justices of the up<g ref="char:EOLhyphen"/>per bench.</item>
+                  <item>John Puleston, one of the Just. of the Com<g ref="char:EOLhyphen"/>mon Pleas.</item>
+                  <item>Peter Warberton, one of the Justices of the Common Pleas.</item>
+                  <item>Edward Prideaux, Att. Gen.</item>
+                  <item>William Armyn, Bar.</item>
+                  <item>John Brownlow, Ba<g ref="char:EOLhyphen"/>ronet.</item>
+                  <item>Will. Brownlow, Ba<g ref="char:EOLhyphen"/>ronet.</item>
+                  <item>Hamond Whitloch.</item>
+                  <item>William Armyn.</item>
+                  <item>Thomas Lister.</item>
+                  <item>Edward Ellis.</item>
+                  <item>William Thomson.</item>
+                  <item>William Lister.</item>
+                  <item>William Ellis.</item>
+                  <item>William Walby.</item>
+                  <pb n="33" facs="tcp:169483:17"/>
+                  <item>John Weaver.</item>
+                  <item>John Wyncop.</item>
+                  <item>Jeremy Cole.</item>
+                  <item>Humphry Walcot.</item>
+                  <item>William Dowman.</item>
+               </list>
+               <list>
+                  <item>John Balgny.</item>
+               </list>
+            </div>
+            <div type="justices_of_LINCOLN_LINDSEY.">
+               <head>LINCOLN LINDSEY.</head>
+               <list>
+                  <head>Quorum.</head>
+                  <item>William Lenthall, Sp.</item>
+                  <item>Oliver Cromwel, L.G.</item>
+                  <item>John Bradshaw, L. Pre.</item>
+                  <item>Bulst. Whitlock L. C. of the gr. seal.</item>
+                  <item>Richard Keble L. C. of the gr. seal.</item>
+                  <item>John Lisle, L. C. of the gr. seal.</item>
+                  <item>Robert E. of Warwick.</item>
+                  <item>Edw. Earl of Mulgrave</item>
+                  <item>William, Lo. Viscount Mounson.</item>
+                  <item>William Pierpont, Esq;</item>
+                  <item>Francis Pierpont, Esq;</item>
+                  <item>Henry Roll, L. C. J. of the upper bench.</item>
+                  <item>Oliver St. John, L.C.J. of the Com. Pleas.</item>
+                  <item>Philip Jermyn, one of the Just. of the up. B.</item>
+                  <item>John Puleston, one of the Just. of Com. Pleas</item>
+                  <item>Peter Warberton, one of the Justices of the Com. Pleas.</item>
+                  <item>Edw. Prideaux, At. G.</item>
+                  <item>John Wray, Kt. &amp; Bar.</item>
+                  <item>William Armyn, Bar.</item>
+                  <item>John Wray.</item>
+                  <item>Edward Rosseter.</item>
+                  <item>Christopher Wray.</item>
+                  <item>Thomas Lister.</item>
+                  <item>Thomas Copledick.</item>
+                  <item>William Ellis.</item>
+                  <item>Henry Massenbeard.</item>
+                  <item>Dreyner Massenbeard.</item>
+                  <item>Richard Filkin.</item>
+                  <item>William Woolley.</item>
+                  <item>Michael Mounkton.</item>
+                  <item>Francis Mussenden.</item>
+                  <item>Edward Maddison.</item>
+                  <item>Richard Bryan.</item>
+                  <item>Alexander Emerson.</item>
+                  <item>Thomas Johnson.</item>
+                  <item>Theophilus Harnes.</item>
+               </list>
+               <list>
+                  <item>Robert Christopher.</item>
+                  <item>John Bernard.</item>
+               </list>
+            </div>
+            <div type="justices_of_MIDDLESEX">
+               <pb n="34" facs="tcp:169483:18"/>
+               <head>MIDDLESEX.</head>
+               <list>
+                  <head>Quorum.</head>
+                  <item>William Lenthal, Sp.</item>
+                  <item>Oliver Cromwell, L.G.</item>
+                  <item>John Bradshaw, L. Pr.</item>
+                  <item>
+                     <hi>B.</hi> Whitlock, L. Com. of the great. seal.</item>
+                  <item>Rich. Keble L. Com. of the great. seal.</item>
+                  <item>John Lisle, L. Com. of the great. seal.</item>
+                  <item>Algernon Earl of Nor<g ref="char:EOLhyphen"/>thumberland.</item>
+                  <item>William E. of Salisb.</item>
+                  <item>Robert, Earl of War<g ref="char:EOLhyphen"/>wick.</item>
+                  <item>Basilius E. of Denbigh.</item>
+                  <item>George, Earl of Des<g ref="char:EOLhyphen"/>mond.</item>
+                  <item>William, Viscount Say and Seal.</item>
+                  <item>William Visc. Moun<g ref="char:EOLhyphen"/>son.</item>
+                  <item>William Lo. Gray of Wark.</item>
+                  <item>Edward L. Howard of of Estrick-</item>
+                  <item>Thomas Lord Fairfax.</item>
+                  <item>Henry Vane, Senior. Kt.</item>
+                  <item>Henry Roll, L.C.J. of the upper bench.</item>
+                  <item>Oliver St. John L.C.J. of the Com. Pleas.</item>
+                  <item>John Wilde, L. C. Bar. of the Excheq.</item>
+                  <item>Philip Jermyn, one of the Justices of the up<g ref="char:EOLhyphen"/>per bench.</item>
+                  <item>John Puleston, one of the Just. of the Com. Pleas.</item>
+                  <item>Francis Thorp one of the Barons of the Ex<g ref="char:EOLhyphen"/>chequer.</item>
+                  <item>Peter Warberton, one of the Justices of the Com. Pleas.</item>
+                  <item>Robert Nicholas, one of the Justices of the upper bench.</item>
+                  <item>Richard Ask one of the Justices of the upper bench.</item>
+                  <pb n="35" facs="tcp:169483:18"/>
+                  <item>Edward Atkins one of the Just of Com. Pleas</item>
+                  <item>Edward Prideaux, Att. Gen.</item>
+                  <item>William Bridges.</item>
+                  <item>Edward Powel, Knight and Baronet.</item>
+                  <item>Edward Barkham, Kt. and Baronet.</item>
+                  <item>Thom. Fowler, Knight and Baronet.</item>
+                  <item>George Norton, Bar.</item>
+                  <item>Richard Sprignell, Bar.</item>
+                  <item>Will. Brownlow, Bar.</item>
+                  <item>Tho. Widdrington Kt.</item>
+                  <item>Thomas Jervoyce. Kt.</item>
+                  <item>Francis West, Lieute<g ref="char:EOLhyphen"/>nant of the Tower of London.</item>
+                  <item>John Danvers, Kt.</item>
+                  <item>John Hippesley, Kt.</item>
+                  <item>James Harrington. Kt.</item>
+                  <item>Henry Vane Junior, Kt.</item>
+                  <item>William Roberts, Kt.</item>
+                  <item>John Woollaston, Kt.</item>
+                  <item>John Thorowgood, Kt.</item>
+                  <item>William Allenson, Kt.</item>
+                  <item>William Steel, Recor<g ref="char:EOLhyphen"/>der of London.</item>
+                  <item>John Glynne, Serjeant at Law.</item>
+                  <item>John Page, Masters of the Chan<g ref="char:EOLhyphen"/>cery.</item>
+                  <item>Edward Rich, Masters of the Chan<g ref="char:EOLhyphen"/>cery.</item>
+                  <item>Ed. Eltonhead, Masters of the Chan<g ref="char:EOLhyphen"/>cery.</item>
+                  <item>Matthew Hall, Atturn. Gen. of the Dutchy of Lancast.</item>
+                  <item>Robert Wallop.</item>
+                  <item>Carew Raleigh.</item>
+                  <item>Franics Rouse.</item>
+                  <item>Cornelius Holland.</item>
+                  <item>Roger Hill.</item>
+                  <item>Laurence Whitaker.</item>
+                  <item>Humphry Edwards.</item>
+                  <item>James Temple.</item>
+                  <item>John Trenchard.</item>
+                  <item>Robert Scawen.</item>
+                  <item>John Hawtrey.</item>
+                  <item>John Huxley.</item>
+                  <item>Richard Powel.</item>
+                  <item>Robert Titchburne.</item>
+                  <item>John Browne.</item>
+                  <item>John Smith.</item>
+                  <item>Edward Roberts.</item>
+                  <item>John Gourdon.</item>
+                  <item>Aaron Geurdam, Dr. of Physick.</item>
+                  <item>Thomas Barnardiston.</item>
+                  <item>Nicholas Love.</item>
+                  <item>Edward Ludlow.</item>
+                  <item>William Cawley.</item>
+                  <item>Francis Allen.</item>
+                  <pb n="36" facs="tcp:169483:19"/>
+                  <item>Thomas Marsh.</item>
+                  <item>Edward Birkhead.</item>
+                  <item>John St John.</item>
+               </list>
+               <list>
+                  <item>Thomas Smith.</item>
+                  <item>
+                     <hi>q.</hi> Richard Newdegate.</item>
+                  <item>
+                     <hi>q.</hi> Thomas Bales.</item>
+                  <item>
+                     <hi>q.</hi> Nathaneel Snape.</item>
+                  <item>
+                     <hi>q.</hi> Peter Bradshaw.</item>
+                  <item>
+                     <hi>q.</hi> Robert Nelson.</item>
+                  <item>
+                     <hi>q.</hi> Iames Winstanley.</item>
+                  <item>
+                     <hi>q.</hi> Edward Rich.</item>
+                  <item>
+                     <hi>q.</hi> Thomas Hubbert.</item>
+                  <item>
+                     <hi>q.</hi> George Manley.</item>
+                  <item>
+                     <hi>q.</hi> Henry Scobell, Clerk of the Parliament.</item>
+                  <item>
+                     <hi>q.</hi> John Hooker.</item>
+                  <item>
+                     <hi>q.</hi> George cooper.</item>
+                  <item>
+                     <hi>q.</hi> Richard Downton.</item>
+                  <item>William Methold.</item>
+                  <item>
+                     <hi>q.</hi> Tobias Lisle.</item>
+                  <item>
+                     <hi>q.</hi> John Morris.</item>
+                  <item>
+                     <hi>q.</hi> William Mellish.</item>
+                  <item>
+                     <hi>q.</hi> Nicholas Martin.</item>
+                  <item>
+                     <hi>q.</hi> Augustine Winkfield</item>
+                  <item>
+                     <hi>q.</hi> Edward Harvey.</item>
+                  <item>
+                     <hi>q.</hi> Daniel Blagrave.</item>
+                  <item>
+                     <hi>q.</hi> Owin Rowe.</item>
+                  <item>
+                     <hi>q.</hi> Thomas Pride.</item>
+                  <item>
+                     <hi>q.</hi> John Okey.</item>
+                  <item>
+                     <hi>q.</hi> Richard Lowther.</item>
+                  <item>
+                     <hi>q.</hi> Walter Walker.</item>
+                  <item>
+                     <hi>q.</hi> Samuel Moyer.</item>
+                  <item>
+                     <hi>q.</hi> John Holyday.</item>
+                  <item>
+                     <hi>q.</hi> John Heylin.</item>
+                  <item>
+                     <hi>q.</hi> John cook.</item>
+                  <item>Solomon Smith.</item>
+                  <item>
+                     <hi>q.</hi> Josias Berners.</item>
+                  <item>Robert Hampton.</item>
+                  <item>
+                     <hi>q.</hi> William Lane.</item>
+                  <item>
+                     <hi>q.</hi> Daniel Proctor.</item>
+                  <item>
+                     <hi>q.</hi> James Hawley.</item>
+                  <item>Matthew Herbert.</item>
+                  <item>
+                     <hi>q.</hi> Francis Thompson.</item>
+                  <item>
+                     <hi>q.</hi> Hilary Memphros.</item>
+                  <item>
+                     <hi>q.</hi> John Limbrey.</item>
+                  <item>
+                     <hi>q.</hi> John Hoxton.</item>
+                  <item>John Taylor.</item>
+                  <item>John Waterton.</item>
+                  <item>Roger Twedy.</item>
+                  <item>Thomas Falconberdge</item>
+                  <item>John Berkstead.</item>
+                  <item>Jervice Elwes.</item>
+                  <item>Arthur Squib.</item>
+                  <item>
+                     <hi>q.</hi> Paul Nichols.</item>
+                  <item>
+                     <hi>q.</hi> Richard Big.</item>
+                  <item>
+                     <hi>q.</hi> Will. Willoughby</item>
+                  <item>William Ramborough.</item>
+                  <item>W Powel, <hi>alias</hi> Hinson.</item>
+                  <item>Robert cuts.</item>
+                  <item>Gilbert Barrell.</item>
+                  <item>Clement Farnham.</item>
+                  <item>Francis Blomer.</item>
+               </list>
+            </div>
+            <div type="justices_of_MONMOUTH">
+               <pb n="37" facs="tcp:169483:19"/>
+               <head>MONMOUTH.</head>
+               <list>
+                  <head>Quorum.</head>
+                  <item>William Lenthal, Sp.</item>
+                  <item>Oliver Cromwel, Lord General.</item>
+                  <item>John Bradshaw, Lo. President.</item>
+                  <item>Bulst. Whitlock L Com<g ref="char:EOLhyphen"/>mission. of the gr. seal.</item>
+                  <item>Richard Keble L Com<g ref="char:EOLhyphen"/>mission. of the gr. seal.</item>
+                  <item>John Lisle L Com<g ref="char:EOLhyphen"/>mission. of the gr. seal.</item>
+                  <item>Henry Roll, L. C. Just. of the upper bench.</item>
+                  <item>John Wilde, Lo. chief Baron of the Excheq.</item>
+                  <item>Richard Aske, one of the Justices of the up<g ref="char:EOLhyphen"/>per bench.</item>
+                  <item>Philip Jermyn, one of the Iustices of the up<g ref="char:EOLhyphen"/>per bench.</item>
+                  <item>Robert Nicholas, one of the Justices of the upper bench.</item>
+                  <item>Edward Prideaux, Att. Gen.</item>
+                  <item>Thomas Harrison.</item>
+                  <item>Richard Cromwell.</item>
+                  <item>William Herbert.</item>
+                  <item>Henry Herbert.</item>
+                  <item>Edward Morgan.</item>
+                  <item>Thomas Herbert.</item>
+                  <item>Thomas Hughes.</item>
+                  <item>William Jones.</item>
+                  <item>John Parry.</item>
+                  <item>John Walter.</item>
+                  <item>Roger Williams.</item>
+                  <item>Edward Herbert.</item>
+                  <item>John Nicholas.</item>
+               </list>
+               <list>
+                  <item>Henry Baker.</item>
+                  <item>William Blethan.</item>
+                  <item>Thomas Williams.</item>
+                  <item>Christopher Catchmay.</item>
+                  <item>James Pritchard.</item>
+                  <item>William Packer.</item>
+                  <item>Robert Jones.</item>
+                  <item>Roger Oats.</item>
+                  <item>Richard Williams.</item>
+                  <item>Walter Morgan.</item>
+               </list>
+            </div>
+            <div type="justices_of_NORFOLK">
+               <pb n="38" facs="tcp:169483:20"/>
+               <head>NORFOLK.</head>
+               <list>
+                  <head>Quorum.</head>
+                  <item>William Lenthall, Sp.</item>
+                  <item>Oliver cromwel, L. G.</item>
+                  <item>John Bradshawe, L. Pr</item>
+                  <item>B. Whitlock Lo. Com. of the great seal.</item>
+                  <item>Rich. Keble Lo. Com. of the great seal.</item>
+                  <item>John Lisle Lo. Com. of the great seal.</item>
+                  <item>Robert Earl of War<g ref="char:EOLhyphen"/>wick.</item>
+                  <item>Henry Roll. Lo. chief Just. of the up. bench.</item>
+                  <item>Oliver St. John, L. chief Just of the Com Pl.</item>
+                  <item>John Wilde, Lo. chief <gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>aron of the Excheq.</item>
+                  <item>Edward Atkins, one of the just. of the com. Pleas.</item>
+                  <item>Richard Aske, one of the justices of the up<g ref="char:EOLhyphen"/>per bench.</item>
+                  <item>Edw. Prideaux, Attur. Gen.</item>
+                  <item>Thomas Woodhouse, Knight and Baronet.</item>
+                  <item>Richard Barney, Bar.</item>
+                  <item>Edward Barkham, Bar.</item>
+                  <item>John Hobart, Baronet.</item>
+                  <item>William Paston, Bar.</item>
+                  <item>John Palgrave, Knight. and Baronet.</item>
+                  <item>Richard Hare, Baron.</item>
+                  <item>Isaac Astley, Knight, &amp; Baronet.</item>
+                  <item>Thomas Hogan, Kt.</item>
+                  <item>John Wentworth, Kt.</item>
+                  <item>Thomas Gawdy, Kt.</item>
+                  <item>George Windham, Kt.</item>
+                  <item>Valentine Pell. Kt.</item>
+                  <item>Thomas Guibon, Kt.</item>
+                  <item>William Doyly, Kt.</item>
+                  <item>Erasmus Earl, Serjeant at Law.</item>
+                  <item>Will. Hevenningham.</item>
+                  <item>Thomas Richardson.</item>
+                  <item>John Spellman.</item>
+                  <item>Thomas Windham.</item>
+                  <item>John coke.</item>
+                  <item>Philip Skippon.</item>
+                  <pb n="39" facs="tcp:169483:20"/>
+                  <item>Philip Beddingfield.</item>
+                  <item>Robert Wood, senior.</item>
+                  <item>Gregory Gawesell.</item>
+                  <item>John Buxton.</item>
+                  <item>Robert Suckling.</item>
+                  <item>Martin Sedley.</item>
+                  <item>James Scambler.</item>
+                  <item>Milo Corbet.</item>
+               </list>
+               <list>
+                  <item>Thomas Berney.</item>
+                  <item>Carolus Fleetwood.</item>
+                  <item>
+                     <hi>q.</hi> Robert Wilton.</item>
+                  <item>
+                     <hi>q.</hi> Robert Haughton.</item>
+                  <item>
+                     <hi>q.</hi> Valentine Wauton.</item>
+                  <item>
+                     <hi>q.</hi> Robert Rich.</item>
+                  <item>
+                     <hi>q.</hi> Francis Cory.</item>
+                  <item>
+                     <hi>q.</hi> Samuel Smith.</item>
+                  <item>
+                     <hi>q.</hi> Brumpton Gourdon</item>
+                  <item>
+                     <hi>q.</hi> Thomas Wilde.</item>
+                  <item>
+                     <hi>q.</hi> Robert Long.</item>
+                  <item>Thomas Cooks.</item>
+                  <item>Simon Smith.</item>
+                  <item>Edward Hayard.</item>
+                  <item>William Coke</item>
+                  <item>William Buckworth.</item>
+                  <item>Thomas Wright.</item>
+                  <item>Cleere Talbot Dr. of the Law.</item>
+                  <item>John Stubs.</item>
+                  <item>
+                     <hi>q.</hi> Robert Gerny.</item>
+                  <item>John Hobart, of Out<g ref="char:EOLhyphen"/>wall.</item>
+                  <item>Robert Sheppard.</item>
+                  <item>
+                     <hi>q.</hi> Thomas Southerton.</item>
+                  <item>James Hobart.</item>
+                  <item>Robert Gegon.</item>
+                  <item>Thomas Fleere.</item>
+                  <item>Hamond Ward.</item>
+                  <item>
+                     <hi>q.</hi> Thomas Drury.</item>
+                  <item>
+                     <hi>q.</hi> Robert Paynell.</item>
+                  <item>Car George cock.</item>
+                  <item>Robert Gouch, junior.</item>
+                  <item>Robert Wood, senior.</item>
+                  <item>Thomas Utber.</item>
+                  <item>
+                     <hi>q.</hi> Guibon Goddard.</item>
+                  <item>Gabriel Barker, Dr. of Physick.</item>
+                  <item>John Pell.</item>
+                  <item>Henry King.</item>
+                  <item>Thomas Toll.</item>
+                  <item>Edward Bourman.</item>
+                  <item>Major of Norwich, for the present.</item>
+                  <item>Nathaneel Maxey.</item>
+                  <item>John May.</item>
+                  <item>Tristram Dymond.</item>
+                  <item>Major of Lynne Regis, for the time.</item>
+                  <item>The Balives of the town majoris Yarmouth, for the time</item>
+               </list>
+            </div>
+            <div type="justices_of_NORTHAMPTON_SHIRE">
+               <pb n="40" facs="tcp:169483:21"/>
+               <head>NORTHAMPTON SHIRE.</head>
+               <list>
+                  <head>Quorum.</head>
+                  <item>William Lenthall, Sp.</item>
+                  <item>Oliver cromwell. L.G.</item>
+                  <item>John Bradshaw, L. Pr.</item>
+                  <item>B. Whitlock, L. Com. of the great seal.</item>
+                  <item>Rich. Keble, L. Com. of the great seal.</item>
+                  <item>John Lisle, L. Com. of the great seal.</item>
+                  <item>Robert Earl of War<g ref="char:EOLhyphen"/>wick.</item>
+                  <item>VVill. Visc. Mounson.</item>
+                  <item>Edward L. Montague.</item>
+                  <item>VVilliam L. Fitz. willi<g ref="char:EOLhyphen"/>ams.</item>
+                  <item>Thomas Lord Gray of Groby.</item>
+                  <item>Henry Roll, L. C. J. of the upper bench.</item>
+                  <item>Oliver St. John, L. C. J. of the Com. Pleas.</item>
+                  <item>John wilde, Lord chief Baron of the Excheq.</item>
+                  <item>Philip Jermyn, one of the justices of the up<g ref="char:EOLhyphen"/>per bench.</item>
+                  <item>Peter Warberton, one of the Justices of the common pleas.</item>
+                  <item>John Puleston, one of the just. of the Com. Pleas.</item>
+                  <item>John Green, Serjeant at Law.</item>
+                  <item>Edw. Prideaux, Att. G.</item>
+                  <item>Geo. Mountague, Esq;</item>
+                  <item>Tho Widdrington, Kt.</item>
+                  <item>John Dreyden, Bar.</item>
+                  <item>Christopher Yelverton, Kt. and Baronet.</item>
+                  <item>John Norwich, Knight and Baronet.</item>
+                  <item>Edward Nichols, Bar.</item>
+                  <item>Gilbert Pickering, Bar.</item>
+                  <item>John Clark, Sarjeant at Law.</item>
+                  <item>John Parker, Sarjeant at Law.</item>
+                  <item>Richard Knightly, sen.</item>
+                  <item>Zouch Tate.</item>
+                  <item>Richard Owseley.</item>
+                  <pb n="41" facs="tcp:169483:21"/>
+                  <item>Edward Hanbury.</item>
+                  <item>Richard Samuel.</item>
+                  <item>Edward Harby.</item>
+               </list>
+               <list>
+                  <item>John Claypool.</item>
+                  <item>
+                     <hi>q.</hi> John Cartwright.</item>
+                  <item>
+                     <hi>q.</hi> John Brown.</item>
+                  <item>
+                     <hi>q.</hi> Thomas Elmes.</item>
+                  <item>
+                     <hi>q.</hi> Philip Holman.</item>
+                  <item>
+                     <hi>q.</hi> Edward Farmer.</item>
+                  <item>
+                     <hi>q.</hi> John Maunsell.</item>
+                  <item>
+                     <hi>q.</hi> Nathan Humphryes.</item>
+                  <item>
+                     <hi>q.</hi> Thomas Brooks.</item>
+                  <item>
+                     <hi>q.</hi> John Norton.</item>
+                  <item>
+                     <hi>q.</hi> Richard Andrews.</item>
+                  <item>
+                     <hi>q.</hi> Charles Marrison.</item>
+                  <item>William Ward.</item>
+                  <item>John Thornton.</item>
+                  <item>George Benson.</item>
+                  <item>Thomas Pentlowe.</item>
+                  <item>George Linne, Esq;.</item>
+                  <item>John Claypool, jun.</item>
+                  <item>John Haslerig.</item>
+                  <item>Erasmus Dreydon.</item>
+                  <item>Henry Berkley.</item>
+                  <item>Thomas Bletso.</item>
+               </list>
+            </div>
+            <div type="justices_of_NORTHUMBERLAND.">
+               <head>NORTHUMBERLAND.</head>
+               <list>
+                  <head>Quorum.</head>
+                  <item>William Lenthall, Sp.</item>
+                  <item>Oliver Cromwel, L. G.</item>
+                  <item>John Bradshawe, L. Pr</item>
+                  <item>B. Whitlock Lo. Com. of the great seal.</item>
+                  <item>Rich. Keble Lo. Com. of the great seal.</item>
+                  <item>John Lisle Lo. Com. of the great seal.</item>
+                  <item>Algernon, Earl of Nor<g ref="char:EOLhyphen"/>thumberland.</item>
+                  <item>William Lord Gray of Wark.</item>
+                  <item>Thomas Lord Fairfax.</item>
+                  <item>Henry Roll, Lo. chief Just. of the up. bench.</item>
+                  <item>Francis Thorp one of the Bar. of the Excheq</item>
+                  <item>Peter Warberton, one of the Justices of the Common Pleas,</item>
+                  <item>John Puleston, one of the Just. of the C. Pl.</item>
+                  <pb n="42" facs="tcp:169483:22"/>
+                  <item>Edward Prideaux, Att. Gen.</item>
+                  <item>Henry Vane, sen. Kt.</item>
+                  <item>Arthur Haslerig, Baron.</item>
+                  <item>John Fenwick, Knight and Baronet.</item>
+                  <item>William Armyn, Kt. and Baronet.</item>
+                  <item>John Delavale, Knight.</item>
+                  <item>Thomas Widdrington, Knight.</item>
+                  <item>William Selby, Knight.</item>
+                  <item>Henry Vane, jun. Kt.</item>
+                  <item>William Fenwick.</item>
+                  <item>George Fenwick.</item>
+                  <item>John Blackiston.</item>
+                  <item>Richard Delavale.</item>
+                  <item>Thomas Middleton.</item>
+                  <item>Robert Fenwick.</item>
+                  <item>William Shafto.</item>
+                  <item>Michael Welden.</item>
+                  <item>Thomas Lorayne.</item>
+                  <item>Robert Lisle.</item>
+                  <item>Will. Hevenningham.</item>
+                  <item>Henry Ogle.</item>
+                  <item>George Paylor.</item>
+               </list>
+               <list>
+                  <item>John Hall.</item>
+                  <item>
+                     <hi>q.</hi> Richard Foster.</item>
+                  <item>Luke Killingworth.</item>
+                  <item>Thomas Ledger.</item>
+               </list>
+            </div>
+            <div type="justices_of_NOTTINGHAM_SHIRE.">
+               <head>NOTTINGHAM SHIRE.</head>
+               <list>
+                  <head>Quorum.</head>
+                  <item>William Lenthall, Sp.</item>
+                  <item>Oliver Cromwel, L. G.</item>
+                  <item>John Bradshawe, Lord</item>
+                  <item>President.</item>
+                  <item>B. Whitlock Lo. Com. of the great Seal.</item>
+                  <item>Rich Keble Lo. Com. of the great Seal.</item>
+                  <item>John Lisle Lo. Com. of the great Seal.</item>
+                  <item>Henry Earl of Kent.</item>
+                  <item>William Lord Gray of Wark.</item>
+                  <item>Henry Roll, L. C. J. of the upper bench.</item>
+                  <item>Oliver St John, L. chief Justice of the com<g ref="char:EOLhyphen"/>mon Pleas.</item>
+                  <item>Phillip Jermyn, one of
+<pb n="43" facs="tcp:169483:22"/>the justices of the up<g ref="char:EOLhyphen"/>per bench.</item>
+                  <item>John Puleston, one of the Just. of the Com<g ref="char:EOLhyphen"/>mon Pleas.</item>
+                  <item>Peter Warberton, one of the Justices of the Common Pleas.</item>
+                  <item>Edward Prideaux, Att. Gen.</item>
+                  <item>William Pierpont, Esq;</item>
+                  <item>Francis Pierpont, Esq.</item>
+                  <item>Will Willoughby, Esq;</item>
+                  <item>Edward Worsley, Kt.</item>
+                  <item>John Hutchinson.</item>
+                  <item>Jervice Pigot.</item>
+                  <item>Gilbert Millington.</item>
+                  <item>Henry Ireton.</item>
+                  <item>Edward Nevill.</item>
+                  <item>John Odensell.</item>
+                  <item>Samuel Bolles.</item>
+                  <item>Edward Ayscough, sen.</item>
+                  <item>Joseph Midmerpool.</item>
+                  <item>William Wrightman.</item>
+                  <item>William Cartwright.</item>
+                  <item>Clement Spelman.</item>
+                  <item>Robert Raynes.</item>
+               </list>
+               <list>
+                  <item>William Clerkson.</item>
+                  <item>
+                     <hi>q.</hi> Nicholas Charleton.</item>
+                  <item>Henry Henley.</item>
+                  <item>Thomas Linley.</item>
+                  <item>Thomas Sherbrooh.</item>
+                  <item>John Moseley.</item>
+                  <item>Richard Dobson.</item>
+                  <item>Charles Hall.</item>
+                  <item>Philip Pendock.</item>
+                  <item>Francis Hacker.</item>
+                  <item>Richard Hacker.</item>
+                  <item>Edward Clud.</item>
+               </list>
+            </div>
+            <div type="justices_of_OXON">
+               <pb n="44" facs="tcp:169483:23"/>
+               <head>OXON.</head>
+               <list>
+                  <head>Quorum.</head>
+                  <item>William Lenthall, Sp.</item>
+                  <item>Oliver Cromwel, L. G.</item>
+                  <item>John Bradshawe, Lord</item>
+                  <item>President.</item>
+                  <item>B. Whitlock Lo. Com. of the great Seal.</item>
+                  <item>Rich Keble Lo. Com. of the great Seal.</item>
+                  <item>John Lisle Lo. Com. of the great Seal.</item>
+                  <item>Henry Roll, L. C. J. of the upper bench.</item>
+                  <item>Oliver St John, L. chief Justice of the Com<g ref="char:EOLhyphen"/>mon Pleas.</item>
+                  <item>John Wilde, Lo. chief Baron of the Excheq.</item>
+                  <item>Richard Aske, one of the justices of the up<g ref="char:EOLhyphen"/>per bench.</item>
+                  <item>John Puleston, one of the just. of the Com. Pleas.</item>
+                  <item>Philip Jermyn, one of the justices of the up<g ref="char:EOLhyphen"/>per bench.</item>
+                  <item>Robert Nicholas, one of the Justices of the upper bench.</item>
+                  <item>Edward Prideaux, Att. Gen.</item>
+                  <item>John D<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nvers, Knight.</item>
+                  <item>Peter Wentworth, Kt. of the Bath.</item>
+                  <item>Thomas Hampson, Bar.</item>
+                  <item>Thomas Read, Kt.</item>
+                  <item>Francis Norris. Kt.</item>
+                  <item>Palbner, Dr. of Law.</item>
+                  <item>John Miles, Dr. of the Law.</item>
+                  <item>Parsons Dr. of Physick.</item>
+                  <item>Bartholemew Hall, Att. general of the Dutchy of Lancaster.</item>
+                  <item>Umpton Crook.</item>
+                  <item>Edward Dunch.</item>
+                  <item>Thomas Tipping.</item>
+                  <item>Edward Wray.</item>
+                  <item>John Doyley.</item>
+                  <item>Robert Jenkinson.</item>
+                  <item>John Lenthall.</item>
+                  <pb n="45" facs="tcp:169483:23"/>
+                  <item>Edward Lenthall.</item>
+                  <item>Willam Cope.</item>
+               </list>
+               <list>
+                  <item>Charles Fleetwood.</item>
+                  <item>
+                     <hi>q.</hi> Ro<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ert Scroop.</item>
+                  <item>
+                     <hi>q.</hi> Vincent Barrey.</item>
+                  <item>John Cartwright.</item>
+                  <item>
+                     <hi>q</hi> Adam Scroop.</item>
+                  <item>William Wheat.</item>
+                  <item>
+                     <hi>q.</hi> William Draper.</item>
+                  <item>
+                     <hi>q.</hi> Arthur Evelyn.</item>
+                  <item>
+                     <hi>q.</hi> Thomas Appletree.</item>
+                  <item>Griffith of Bloxam.</item>
+                  <item>Thomas Hales.</item>
+                  <item>Thomas Knight.</item>
+                  <item>
+                     <hi>q.</hi> Gabriel Beck.</item>
+                  <item>Robert Hales.</item>
+                  <item>George Lowe.</item>
+                  <item>Henry Goodwine.</item>
+                  <item>
+                     <hi>q.</hi> Ralph Walcop, jun.</item>
+                  <item>Walter Elwood.</item>
+                  <item>Richard Ingelsby.</item>
+                  <item>
+                     <hi>q</hi> Thomas Kelsey.</item>
+                  <item>Tomas Weeks.</item>
+                  <item>John Nixon.</item>
+                  <item>The Major of the Ci<g ref="char:EOLhyphen"/>ty of Oxford for the time.</item>
+               </list>
+            </div>
+            <div type="justices_of_RUTLAND.">
+               <head>RUTLAND.</head>
+               <list>
+                  <head>Quorum.</head>
+                  <item>William Lenthal, Sp.</item>
+                  <item>Oliver Cromwell, L.G.</item>
+                  <item>John Bradshaw, Lord President.</item>
+                  <item>
+                     <hi>B.</hi> Whitlock, L. Com. of the great. seal.</item>
+                  <item>Rich. Keble L. Com. of the great. seal.</item>
+                  <item>John Lisle, L. Com. of the great. seal.</item>
+                  <item>Thomas Lord Gray of Groby.</item>
+                  <item>Henry Roll L.C.J. of the upper bench.</item>
+                  <item>Oliver St John. L.C.J. Just. of the Common Pleas.</item>
+                  <item>Philip Jermyn, one of the Justices of the up<g ref="char:EOLhyphen"/>per bench.</item>
+                  <item>John Puleston, one of
+<pb n="46" facs="tcp:169483:24"/>the just of the com<g ref="char:EOLhyphen"/>mon pleas.</item>
+                  <item>Peter Warberton, one of the justices of Com<g ref="char:EOLhyphen"/>mon Pleas.</item>
+                  <item>Edward Prideaux, Att. Gen.</item>
+                  <item>Edw. Harrington, Bar.</item>
+                  <item>James Harrington, Kt.</item>
+                  <item>Thomas Hartop, Kt.</item>
+                  <item>Thomas Cayte</item>
+                  <item>Evers Armyn.</item>
+                  <item>Robert Horseman.</item>
+                  <item>John Hatcher.</item>
+                  <item>John Osborne.</item>
+               </list>
+               <list>
+                  <item>Richard Halford.</item>
+                  <item>Everard Faulkner.</item>
+                  <item>Samuel Barber.</item>
+                  <item>
+                     <hi>q.</hi> Ambrose Broughton.</item>
+                  <item>John Holhead.</item>
+                  <item>Benjamin Norton.</item>
+                  <item>Abel Barber.</item>
+                  <item>Christopher Brown.</item>
+               </list>
+            </div>
+            <div type="justices_of_SHROPSHIRE.">
+               <head>SHROPSHIRE.</head>
+               <list>
+                  <head>Quorum.</head>
+                  <item>William Lenthall, Sp.</item>
+                  <item>Oliver Cromwell, L.G.</item>
+                  <item>John Bradshaw, L. Pres.</item>
+                  <item>Bul. Whitlock, L. Com. of the Gr. seal.</item>
+                  <item>Richard Keble, L. Com. of the Gr. seal.</item>
+                  <item>John Lisle, L. Com. of the Gr. seal.</item>
+                  <item>William, Earl of Sa<g ref="char:EOLhyphen"/>lisbury.</item>
+                  <item>Basilius E. of Denbigh.</item>
+                  <item>Henry Roll L. C. J. of the upper bench.</item>
+                  <item>Oliver St John. L. C. J. of the Com. Pleas.</item>
+                  <item>John Wilde, Lo. chief Baron of the Excheq.</item>
+                  <item>Richard Aske, one of the Just. of the upper bench.</item>
+                  <item>John Puleston, one of the just. of the Com. Pleas.</item>
+                  <item>Philip Jermyn, one of
+<pb n="47" facs="tcp:169483:24"/>the Just. of the upper bench.</item>
+                  <item>Robert Nicholas, one of the Justices of the upper Bench.</item>
+                  <item>Will Pierpoint, Esq;.</item>
+                  <item>Humphry Brigs, Knight and Baronet.</item>
+                  <item>Gilbert Cromwell.</item>
+                  <item>Robert Wallop.</item>
+                  <item>Edward Wilde.</item>
+                  <item>Harecourt Leighton.</item>
+                  <item>Thomas Mitton.</item>
+                  <item>Humphry Mackworth.</item>
+                  <item>Robert Powel.</item>
+                  <item>Samuel Moore.</item>
+                  <item>Richard Crescet.</item>
+                  <item>Edward Whitchcote.</item>
+                  <item>Rob. Corbet of Stan<g ref="char:EOLhyphen"/>derdine.</item>
+                  <item>Humphry Edwards.</item>
+                  <item>Andrew Floyd.</item>
+                  <item>Thomas Nichols.</item>
+               </list>
+               <list>
+                  <item>William Littleton.</item>
+                  <item>William Jones.</item>
+                  <item>Richard Hopton.</item>
+                  <item>Thomas Kettleby.</item>
+                  <item>Creswell Taylor.</item>
+                  <item>Philip Young.</item>
+                  <item>John Corbet of Alston.</item>
+                  <item>Thomas Hunt.</item>
+                  <item>Lancelot Ley.</item>
+                  <item>Roger Rowley.</item>
+                  <item>Hercules Kinnersley.</item>
+                  <item>William Childe, Dr. of the Law.</item>
+                  <item>Henry Mildmay.</item>
+                  <item>Thomas Baker.</item>
+                  <item>Roger Evans.</item>
+                  <item>Job Chareton.</item>
+               </list>
+            </div>
+            <div type="justices_of_SOMMERSET">
+               <pb n="38" facs="tcp:169483:25"/>
+               <head>SOMMERSET.</head>
+               <list>
+                  <head>Quorum.</head>
+                  <item>William Lenthall, Sp.</item>
+                  <item>Oliver Cromwell, L.G.</item>
+                  <item>John Bradshaw, L. Pres.</item>
+                  <item>Bul Whitlock, L. Com. of the Gr. seal.</item>
+                  <item>Richard Keble, L. Com. of the Gr. seal.</item>
+                  <item>John Lisle, L. Com. of the Gr. seal.</item>
+                  <item>Henry Earl of Kent.</item>
+                  <item>Henry Roll, L. C. J. of the upper bench.</item>
+                  <item>Oliver St. John L. C. J. of the Com. Pleas.</item>
+                  <item>John Wilde, L. C. Bar. of the Excheq.</item>
+                  <item>Rob. Nicholas, one of the Just. of the upper bench.</item>
+                  <item>Edw. Prideaux, Attur. Gen.</item>
+                  <item>Thomas Wroth, Kt.</item>
+                  <item>John Horner, Kt.</item>
+                  <item>Alexander Popham.</item>
+                  <item>John Harrington.</item>
+                  <item>Hugh Rogers.</item>
+                  <item>Rog. Hill of Pounferd.</item>
+                  <item>John Ash</item>
+                  <item>John Piyne.</item>
+                  <item>Edward Popham.</item>
+                  <item>Thomas Bampfield.</item>
+                  <item>Richard Cole.</item>
+                  <item>John Hippesley.</item>
+                  <item>Henry Henley.</item>
+                  <item>John Preston.</item>
+                  <item>John Buckland.</item>
+                  <item>George Luttrel.</item>
+               </list>
+               <list>
+                  <item>Alexander Pyme.</item>
+                  <item>
+                     <hi>q.</hi> John Palmer Dr. of Physick.</item>
+                  <item>George Searl.</item>
+                  <item>Marmaduke Jennings.</item>
+                  <item>
+                     <hi>q.</hi> William Carrant.</item>
+                  <item>
+                     <hi>q.</hi> Richard Jones.</item>
+                  <item>
+                     <hi>q.</hi> Hugh Windham.</item>
+                  <item>
+                     <hi>q.</hi> Lislibon Long.</item>
+                  <item>
+                     <hi>q.</hi> John Newton.</item>
+                  <item>
+                     <hi>q.</hi> Vincent Gooking.</item>
+                  <pb n="49" facs="tcp:169483:25"/>
+                  <item>Charles Stayning.</item>
+                  <item>
+                     <hi>q.</hi> Thomas Syderfin.</item>
+                  <item>
+                     <hi>q.</hi> Giles Strangewayes.</item>
+                  <item>
+                     <hi>q.</hi> Thomas Latch.</item>
+                  <item>
+                     <hi>q.</hi> William Ceely.</item>
+                  <item>
+                     <hi>q.</hi> Edward Ceely.</item>
+                  <item>John Carew.</item>
+                  <item>
+                     <hi>q.</hi> Henry Bonner.</item>
+                  <item>Robert Blake.</item>
+                  <item>John Turbervile.</item>
+                  <item>
+                     <hi>q.</hi> Francis Swanton.</item>
+                  <item>John Carye, of Castle Carye.</item>
+                  <item>Thomas Gorges.</item>
+                  <item>John Gorges</item>
+                  <item>Robert Morgan.</item>
+                  <item>William Hilliard.</item>
+                  <item>Thomas Cox.</item>
+               </list>
+            </div>
+            <div type="justices_of_SOUTHAMPTON.">
+               <head>SOUTHAMPTON.</head>
+               <list>
+                  <head>Quorum.</head>
+                  <item>William Lenthall, Sp.</item>
+                  <item>Oliver Cromwel, L. G.</item>
+                  <item>John Bradshaw, L. Pre.</item>
+                  <item>Bulst. Whitlock L. C. of the gr. seal.</item>
+                  <item>Richard Keble L. C. of the gr. seal.</item>
+                  <item>John Lisle, L. C. of the gr. seal.</item>
+                  <item>Algernon, Earl of Nor<g ref="char:EOLhyphen"/>thumberland.</item>
+                  <item>William Earl of Salisb</item>
+                  <item>Robert Earl of War<g ref="char:EOLhyphen"/>wick.</item>
+                  <item>William, viscount Say and Seal.</item>
+                  <item>William Lord Gray of Wark.</item>
+                  <item>John, Lord Roberts of Truro.</item>
+                  <item>Charles, Lord Dela<g ref="char:EOLhyphen"/>ware.</item>
+                  <item>Henry Vane senior, Kt.</item>
+                  <item>Henry Roll, L. C. J. of the upper bench.</item>
+                  <item>John Wilde, Lo. chief Baron of the Excheq.</item>
+                  <item>Robert Nicholas, one of the Justices of the upper bench.</item>
+                  <item>Philip Jermyn, one of the justices of the up<g ref="char:EOLhyphen"/>per bench.</item>
+                  <pb n="50" facs="tcp:169483:26"/>
+                  <item>Henry Worseley, Bar.</item>
+                  <item>Edward Prideaux, Att. Gen.</item>
+                  <item>Robert Dillington, Bar.</item>
+                  <item>Lichard Lucy, Baronet</item>
+                  <item>Thomas Jervoyse, Kt.</item>
+                  <item>William Uvedall, Kt.</item>
+                  <item>Henry Mildmay, Kt.</item>
+                  <item>John Dingley Kt.</item>
+                  <item>John Compton, Knight</item>
+                  <item>John Evelin, Knight.</item>
+                  <item>Richard Kinsmill, Kt.</item>
+                  <item>John Leigh, Knight.</item>
+                  <item>William Kingsmill, Kt.</item>
+                  <item>Robert Wallop.</item>
+                  <item>Henry Wallop.</item>
+                  <item>Richard Whitehead.</item>
+                  <item>Richard Norton.</item>
+                  <item>William Jephson.</item>
+                  <item>Robert Reynolds.</item>
+                  <item>Richard Cromwell.</item>
+                  <item>Robert Dillington.</item>
+                  <item>Edward Doddington</item>
+                  <item>John Buckley.</item>
+                  <item>Nicholas Love.</item>
+                  <item>Thomas Tipping.</item>
+                  <item>Thomas Clark of Itchin</item>
+                  <item>Robert Hamond.</item>
+                  <item>John Kemp.</item>
+                  <item>John Loyd.</item>
+                  <item>Francis Allen.</item>
+                  <item>Thomas Hussey.</item>
+                  <item>Thomas Smith.</item>
+                  <item>William Stephens.</item>
+                  <item>William Sidenham.</item>
+                  <item>Charles Fleetwood.</item>
+                  <item>John St. Barbe.</item>
+                  <item>Edward Hooper.</item>
+                  <item>Richard Major.</item>
+                  <item>Richard Lucy.</item>
+                  <item>Nathaneel Wheatham.</item>
+                  <item>William Willoughby.</item>
+                  <item>William Wither.</item>
+                  <item>Francis Rivet.</item>
+                  <item>John Dove.</item>
+                  <item>Tho. Bettesworth, sen.</item>
+                  <item>Thomas Boreman.</item>
+                  <item>John Hook.</item>
+                  <item>Francis Tilney.</item>
+                  <item>Thomas Cole.</item>
+                  <item>Henry Bromfield.</item>
+               </list>
+               <list>
+                  <item>William Collins.</item>
+                  <item>John Woolceridge.</item>
+                  <item>John Cole.</item>
+                  <item>
+                     <hi>q.</hi> Richard Cob.</item>
+                  <item>John Pitman.</item>
+                  <item>Robert Gough.</item>
+                  <item>
+                     <hi>q.</hi> John Hilddesley.</item>
+                  <item>Tho. Douse of Wallop</item>
+                  <item>George Wither.</item>
+                  <pb n="51" facs="tcp:169483:26"/>
+                  <item>Alexander Wilson.</item>
+                  <item>Thomas Gate.</item>
+                  <item>Peter Murford.</item>
+                  <item>Edward Hayle.</item>
+               </list>
+            </div>
+            <div type="justices_of_ST_AFFORD.">
+               <head>ST AFFORD.</head>
+               <list>
+                  <head>Quorum.</head>
+                  <item>William Lenthal, Sp.</item>
+                  <item>Oliver Cromwell, L.G.</item>
+                  <item>John Bradshaw, Lord President.</item>
+                  <item>
+                     <hi>B.</hi> Whitlock, L. Com. of the great. seal.</item>
+                  <item>Rich. Keble L. Com. of the great. seal.</item>
+                  <item>John Lisle, L. Com. of the great. seal.</item>
+                  <item>Thomas Lord Fairfax</item>
+                  <item>Henry Roll L. C. J. of the upper bench.</item>
+                  <item>Oliver St John. L. C. J. Just. of the Common Pleas.</item>
+                  <item>John Wilde, Lo. chief Baron of the Excheq.</item>
+                  <item>Richard Ask one of the Justices of the upper bench.</item>
+                  <item>Philip Jermyn, one of the Justices of the up<g ref="char:EOLhyphen"/>per bench.</item>
+                  <item>Robert Nicholas, one of the Justices of the Common pleas.</item>
+                  <item>Peter Warberton, one of the Justices of the Com. Pleas.</item>
+                  <item>Edward Prideaux, Att. Gen.</item>
+                  <item>William Brereton, Bar.</item>
+                  <item>John Wirley, Knight.</item>
+                  <item>John Whorwood, of Stourton.</item>
+                  <item>George Bowes.</item>
+                  <item>Thomas Crompton.</item>
+                  <item>Matthew Moreton.</item>
+                  <item>Edward Manwaring.</item>
+                  <item>Kichard Pyot.</item>
+                  <item>Henry Stone.</item>
+                  <item>John Chetwood.</item>
+                  <item>Thomas Parks.</item>
+                  <item>Alex. Wightwich.</item>
+                  <item>Richard Flyer.</item>
+                  <item>Edward Broughton.</item>
+                  <pb n="52" facs="tcp:169483:27"/>
+                  <item>Leicester Barber.</item>
+                  <item>Philip Jackson.</item>
+               </list>
+               <list>
+                  <item>Joseph Whitehalgh.</item>
+                  <item>
+                     <hi>q.</hi> John Shilton.</item>
+                  <item>
+                     <hi>q.</hi> George Bellot of U<g ref="char:EOLhyphen"/>toxiter.</item>
+                  <item>John Goring of Creke<g ref="char:EOLhyphen"/>ston.</item>
+                  <item>Thomas Foley.</item>
+                  <item>
+                     <hi>q.</hi> Henry Danvers of Berrie hill.</item>
+                  <item>Thomas Cornwallis.</item>
+                  <item>
+                     <hi>q.</hi> Daniel Watson.</item>
+                  <item>William Jolley.</item>
+                  <item>Edward Eardly.</item>
+                  <item>Francis Cumberford of Bradley.</item>
+                  <item>John whitehalgh.</item>
+                  <item>Edw. Bret, de Keel.</item>
+                  <item>Edward Downes.</item>
+                  <item>Edward Ashenhurst.</item>
+                  <item>James Wood.</item>
+                  <item>Anthony Rudierd.</item>
+                  <item>Thomas Adshead.</item>
+                  <item>George Brinsley.</item>
+                  <item>Thomas Bradley.</item>
+               </list>
+            </div>
+            <div type="justices_of_SUFFOLK.">
+               <head>SUFFOLK.</head>
+               <list>
+                  <head>Quorum,</head>
+                  <item>William Lenthal, Sp.</item>
+                  <item>Oliver Cromwel, Lord Gen.</item>
+                  <item>John Bradshaw, Lord President.</item>
+                  <item>Bulst. Whitlock L. C. of the Gr. seal.</item>
+                  <item>Richard Keble L. C. of the Gr. seal.</item>
+                  <item>John Lisle. L. C. of the Gr. seal.</item>
+                  <item>Robert E. of Warwick.</item>
+                  <item>Leicester, viscount of Hereford.</item>
+                  <item>William Lord Gray of Wark.</item>
+                  <item>Thomas, Lord Fair<g ref="char:EOLhyphen"/>fax.</item>
+                  <item>Henry Roll L. C J. of the upper bench.</item>
+                  <item>Oliver St. John, L. chief Just of the Com Pl.</item>
+                  <item>John Wilde, Lo. chief Baron of the Exche<g ref="char:EOLhyphen"/>quer.</item>
+                  <pb n="53" facs="tcp:169483:27"/>
+                  <item>Edward Atkins, one of the just. of the com. Pleas.</item>
+                  <item>Richard Ask one of the Justices of the upper bench.</item>
+                  <item>Edw. Prideaux, Att. G.</item>
+                  <item>William Springe, Bar.</item>
+                  <item>Butts Bacon, Baronet.</item>
+                  <item>Dudley North, Knight of the Bath.</item>
+                  <item>John Wentworth, Kt.</item>
+                  <item>William Soams, Kt.</item>
+                  <item>Roger North, Kt.</item>
+                  <item>Nathan. Barnardiston, Knight.</item>
+                  <item>John Rouse, Knight.</item>
+                  <item>Philip Parker, Kt.</item>
+                  <item>Thomas Barnardiston, Knight.</item>
+                  <item>William Hevenningam</item>
+                  <item>Isaac Appleton.</item>
+                  <item>Brampton Gourdon.</item>
+                  <item>Henry North of Cax<g ref="char:EOLhyphen"/>field.</item>
+                  <item>Henry North, of Mil<g ref="char:EOLhyphen"/>den hall.</item>
+                  <item>Nicholas Bacon.</item>
+                  <item>Th. Tyrrel of Gippin.</item>
+                  <item>Miles Corbet.</item>
+                  <item>John Gourdon.</item>
+                  <item>Charles Fleetwood.</item>
+                  <item>
+                     <hi>q.</hi> Robert Brewster.</item>
+                  <item>
+                     <hi>q.</hi> Richard Pepis.</item>
+                  <item>
+                     <hi>q.</hi> John Brook of Yox<g ref="char:EOLhyphen"/>ford.</item>
+                  <item>
+                     <hi>q.</hi> Thomas Cole.</item>
+                  <item>
+                     <hi>q.</hi> Nathaneel Bacon of Ipswich.</item>
+                  <item>
+                     <hi>q.</hi> Francis Bacon.</item>
+                  <item>
+                     <hi>q.</hi> Arthur Jenney.</item>
+                  <item>
+                     <hi>q.</hi> Robert Haughton.</item>
+                  <item>
+                     <hi>q.</hi> William Bloyes.</item>
+                  <item>
+                     <hi>q.</hi> Francis Cory.</item>
+                  <item>Thomas Bacon.</item>
+                  <item>Thomas Blosse.</item>
+                  <item>
+                     <hi>q.</hi> Thom. Eden of Sud<g ref="char:EOLhyphen"/>bury.</item>
+                  <item>Philip Beddingfield.</item>
+                  <item>
+                     <hi>q.</hi> John Cotton.</item>
+                  <item>
+                     <hi>q.</hi> William Tyrrel.</item>
+                  <item>
+                     <hi>q.</hi> Squire Bence</item>
+                  <item>Anthony Beddingfield.</item>
+                  <item>
+                     <hi>q.</hi> Arthur Barnardiston</item>
+                  <item>
+                     <hi>q.</hi> Francis Theobald.</item>
+                  <item>
+                     <hi>q.</hi> Edward Weynew.</item>
+                  <item>
+                     <hi>q.</hi> Edward Harvey.</item>
+                  <item>
+                     <hi>q.</hi> Theoph. Vaughan.</item>
+                  <item>Samuel Fawther.</item>
+                  <item>
+                     <hi>q.</hi> James Hobart.</item>
+                  <item>
+                     <hi>q.</hi> Th. Edgar of Gippo.</item>
+                  <pb n="54" facs="tcp:169483:28"/>
+                  <item>Gibson Lucas.</item>
+                  <item>Francis Brewster.</item>
+                  <item>Edward Reade.</item>
+                  <item>Rob. Wright of Wan<g ref="char:EOLhyphen"/>ford.</item>
+                  <item>Giles Barnardiston.</item>
+                  <item>Isaac Winkall.</item>
+                  <item>Alexander Bence.</item>
+                  <item>Joseph Brand.</item>
+                  <item>Henry Parker.</item>
+                  <item>Robert Wingfield.</item>
+                  <item>Anthony Freston.</item>
+                  <item>John Brandling.</item>
+                  <item>William Gooch.</item>
+                  <item>Humphry Brewster.</item>
+                  <item>Tobyas Frier.</item>
+                  <item>Daniel Clench.</item>
+                  <item>Barnabas Bowtell.</item>
+                  <item>Edward Cole.</item>
+                  <item>Iohn Fiske of Cratles<g ref="char:EOLhyphen"/>den.</item>
+                  <item>
+                     <hi>q.</hi> Iohn Page.</item>
+                  <item>Robert Lane.</item>
+                  <item>William Gibs.</item>
+                  <item>Iohn Clark.</item>
+                  <item>Samuel Moody.</item>
+                  <item>Thomas Chaplain.</item>
+                  <item>George Grome.</item>
+                  <item>Iohn Bayles.</item>
+                  <item>William Goodwyn.</item>
+               </list>
+            </div>
+            <div type="justices_of_SURREY.">
+               <head>SURREY.</head>
+               <list>
+                  <head>Quorum,</head>
+                  <item>William Lenthall, Sp.</item>
+                  <item>Oliver Cromwell, L. G.</item>
+                  <item>John Bradshaw, L. Pres.</item>
+                  <item>Bul. Whitlock, L. Com. of the Gr. seal.</item>
+                  <item>Richard Keble, L. Com. of the Gr. seal.</item>
+                  <item>John Lisle, L. Com. of the Gr. seal.</item>
+                  <item>Henry Earl of Kent.</item>
+                  <item>Charles, Earl of Not<g ref="char:EOLhyphen"/>tingham.</item>
+                  <item>William, Visc. Moun<g ref="char:EOLhyphen"/>son.</item>
+                  <item>Thomas, Lord Fairfax.</item>
+                  <item>Henry Roll, L. C. J. of the upper bench.</item>
+                  <item>Oliver St. John, L. C. J. of the Com. Pleas.</item>
+                  <item>John Wilde, L. C. Bar. of the Excheq.</item>
+                  <pb n="55" facs="tcp:169483:28"/>
+                  <item>Edward Atkins, one of the just. of the Com. Pleas.</item>
+                  <item>Edward Prideaux, Att. Gen.</item>
+                  <item>Benjamin Weston, Esq;</item>
+                  <item>William Armyn, Bar.</item>
+                  <item>Michael Levesey, Bar.</item>
+                  <item>Will. Brereton, Bar.</item>
+                  <item>Gregory Norton. Bar.</item>
+                  <item>Henry Hayman, Kt. &amp; Paronet</item>
+                  <item>John Lenthall, Knight.</item>
+                  <item>Thomas Walsingham.</item>
+                  <item>George Ayscewe.</item>
+                  <item>Thomas Jervoyce.</item>
+                  <item>Thomas Evelin.</item>
+                  <item>Richard Onslow.</item>
+                  <item>John Dingley.</item>
+                  <item>Richard Bettison.</item>
+                  <item>Matthew Brand.</item>
+                  <item>Robert Wood.</item>
+                  <item>Robert Parkhurst, Kt.</item>
+                  <item>Isaac Pennington, Al<g ref="char:EOLhyphen"/>derman of London.</item>
+                  <item>William Steel, Recor<g ref="char:EOLhyphen"/>der of London.</item>
+                  <item>Robert Wallop.</item>
+                  <item>Cornelius Holland.</item>
+                  <item>Anthony Stapely.</item>
+                  <item>Herbert Moreley.</item>
+                  <item>James Temple.</item>
+                  <item>Carew Ralegh.</item>
+                  <item>Aaron Geurdam, Dr. of Physick.</item>
+                  <item>Thomas Barnardiston.</item>
+                  <item>Robert Goodwyn.</item>
+                  <item>George Fairwell.</item>
+                  <item>Lancelot <gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ohnson.</item>
+                  <item>Henry Tonstall.</item>
+                  <item>John Goodwyn.</item>
+               </list>
+               <list>
+                  <item>George Duncomb.</item>
+                  <item>
+                     <hi>q.</hi> Nichelas Love.</item>
+                  <item>Robert Titchburne.</item>
+                  <item>
+                     <hi>q.</hi> Humphry Edwards.</item>
+                  <item>
+                     <hi>q.</hi> John Corbet.</item>
+                  <item>
+                     <hi>q</hi> Thomas Scot.</item>
+                  <item>
+                     <hi>q.</hi> Edward Harvey.</item>
+                  <item>
+                     <hi>q</hi> George Sneling.</item>
+                  <item>
+                     <hi>q.</hi> George Thompson.</item>
+                  <item>
+                     <hi>q</hi> Edward Jordan.</item>
+                  <item>Rowland Wilson, sen.</item>
+                  <item>Edward Harvey.</item>
+                  <item>Sackford Gunson.</item>
+                  <item>
+                     <hi>q.</hi> George VVither.</item>
+                  <item>John Herdwick.</item>
+                  <item>
+                     <hi>q.</hi> John Blackwell.</item>
+                  <item>
+                     <hi>q.</hi> John Smith.</item>
+                  <item>John Farewell.</item>
+                  <pb n="56" facs="tcp:169483:29"/>
+                  <item>
+                     <hi>q.</hi> John Beauchamp, of Rigate.</item>
+                  <item>
+                     <hi>q.</hi> Lewis Awdley.</item>
+                  <item>
+                     <hi>q.</hi> Cornelius Cook.</item>
+                  <item>
+                     <hi>q.</hi> John Berkstead.</item>
+                  <item>John Fenwick.</item>
+                  <item>Thomas Moor.</item>
+                  <item>Laurence March.</item>
+                  <item>Robert Purse.</item>
+                  <item>William Mullins.</item>
+                  <item>John Mason</item>
+                  <item>James Sherley.</item>
+                  <item>Lionel Rawlings.</item>
+                  <item>John Westbrook.</item>
+                  <item>
+                     <hi>q.</hi> James Pitso<gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </item>
+                  <item>
+                     <hi>q.</hi> Robert Dolman.</item>
+                  <item>Robert Mead.</item>
+                  <item>Martin Rich.</item>
+                  <item>John How.</item>
+                  <item>
+                     <hi>q.</hi> Samuel Highland.</item>
+                  <item>Thomas Cooper.</item>
+                  <item>Richard Blagrave.</item>
+                  <item>John Brown.</item>
+                  <item>Gilbert Barrel.</item>
+               </list>
+            </div>
+            <div type="justices_of_SUSSEX.">
+               <head>SUSSEX.</head>
+               <list>
+                  <head>Quorum.</head>
+                  <item>William Lenthall, Sp.</item>
+                  <item>Oliver Cromwel, Lord General.</item>
+                  <item>John Bradshaw, Lord President.</item>
+                  <item>B. Whitlock, L. Com. of the great seal.</item>
+                  <item>Rich Keble, L. Com. of the great seal.</item>
+                  <item>John Lisle L. Com. of the great seal.</item>
+                  <item>Algernon Earl of Nor<g ref="char:EOLhyphen"/>thumberland.</item>
+                  <item>Thomas, Lord Fairfax.</item>
+                  <item>Henry Roll, L. C. J of the upper bench.</item>
+                  <item>Philip Jermyn, one of the justices of the up<g ref="char:EOLhyphen"/>per bench.</item>
+                  <item>Edw. Prideaux. At. G.</item>
+                  <item>Thomas Pellam, Bar.</item>
+                  <item>Gregory Norton, Bar.</item>
+                  <item>Michael Levesey, Bar.</item>
+                  <item>Thomas Parker, Kt.</item>
+                  <item>John Chapman, Kt.</item>
+                  <item>John Green Serjeant at Law.</item>
+                  <item>Herbert Morley.</item>
+                  <item>Anthony Stapeley.</item>
+                  <pb n="57" facs="tcp:169483:29"/>
+                  <item>James Temple.</item>
+                  <item>Edward Apseley.</item>
+                  <item>Richard Cooper.</item>
+                  <item>Anthony Mildmay.</item>
+                  <item>John Baker.</item>
+                  <item>Henry Shelley.</item>
+                  <item>Humphry Stewart.</item>
+                  <item>John Fag.</item>
+                  <item>John Busbridge.</item>
+                  <item>Peter Farneden.</item>
+                  <item>Hall Ravenscroft.</item>
+                  <item>John Downs.</item>
+                  <item>William Cawly.</item>
+                  <item>Robert Spence.</item>
+                  <item>George Churchard.</item>
+                  <item>William Hay.</item>
+                  <item>William Moreley.</item>
+                  <item>William Spence.</item>
+                  <item>Roger Gratwright.</item>
+               </list>
+               <list>
+                  <item>Peter Bettesworth, of Vining.</item>
+                  <item>James Butler.</item>
+                  <item>Steven Humfrey.</item>
+                  <item>Nathaneel Studley.</item>
+                  <item>William Freeman.</item>
+                  <item>Thomas Colins.</item>
+                  <item>Thomas Springot.</item>
+                  <item>Richard Boughton.</item>
+                  <item>Robert Goodwin.</item>
+                  <item>
+                     <hi>q.</hi> Thomas Chaloner.</item>
+               </list>
+            </div>
+            <div type="justices_of_WARWICK.">
+               <head>WARWICK.</head>
+               <list>
+                  <head>Quorum.</head>
+                  <item>William Lenthal, Sp.</item>
+                  <item>Oliver Cromwell, L. C.</item>
+                  <item>John Bradshaw, Lord President.</item>
+                  <item>
+                     <hi>B.</hi> Whitlock, L. Com. of the great. seal.</item>
+                  <item>Rich. Keble L. Com. of the great. seal.</item>
+                  <item>John Lisle, L. Com. of the great. seal.</item>
+                  <item>Henry Earl of Kent.</item>
+                  <item>Basilius E. of Denbigh.</item>
+                  <item>Leicester Vis. Hereford</item>
+                  <item>Henry Roll, L. C. Just. of the upper bench.</item>
+                  <item>Oliver St. John L. C. J. of the Com. Pleas</item>
+                  <item>John Wilde, L. C. Bar. of the Excheq.</item>
+                  <pb n="58" facs="tcp:169483:30"/>
+                  <item>Phillip Jermyn, one of the Just. of the upper bench.</item>
+                  <item>John Puleston, one of the Just. of the Com. Pleas.</item>
+                  <item>Peter Warberton, one of the justices of com<g ref="char:EOLhyphen"/>mon Pleas.</item>
+                  <item>Peter Temple, Kt. and Baronet.</item>
+                  <item>John Dreyden, Baron.</item>
+                  <item>Peter Wentworth, Kt. and Baronet.</item>
+                  <item>William Palmer, Kt.</item>
+                  <item>Simon Archer, Kt.</item>
+                  <item>Edward Bulstrode.</item>
+                  <item>John Hales.</item>
+                  <item>William Purefoy.</item>
+                  <item>Richard Newdegate.</item>
+                  <item>Edward Peto.</item>
+                  <item>Richard Lucey.</item>
+                  <item>William Combs.</item>
+                  <item>Anthony Stoughton.</item>
+               </list>
+               <list>
+                  <item>Peter Burgoyne.</item>
+                  <item>
+                     <hi>q.</hi> Richard Hopkins.</item>
+                  <item>
+                     <hi>q.</hi> Godfrid Bosevile.</item>
+                  <item>
+                     <hi>q.</hi> William Colmore.</item>
+                  <item>
+                     <hi>q.</hi> John St. Nicholas.</item>
+                  <item>
+                     <hi>q.</hi> Thom. Willoughby.</item>
+                  <item>
+                     <hi>q.</hi> Gamaleel Purefoy.</item>
+                  <item>
+                     <hi>q.</hi> Waldive Willington</item>
+                  <item>John Bridges.</item>
+                  <item>John Rouse.</item>
+                  <item>Christopher Hales.</item>
+                  <item>
+                     <hi>q.</hi> Samuel Roper.</item>
+                  <item>Joseph Haukesworth.</item>
+               </list>
+            </div>
+            <div type="justices_of_WESTMERLAND.">
+               <head>WESTMERLAND.</head>
+               <list>
+                  <head>Quorum.</head>
+                  <item>William Lenthall, Sp.</item>
+                  <item>Oliver Cromwel, L. G.</item>
+                  <item>John Bradshawe, Lord President.</item>
+                  <item>B. Whitlock Lo. Com. of the great Seal.</item>
+                  <item>Rich Keble Lo. Com. of the great Seal.</item>
+                  <item>John Lisle Lo. Com. of the great Seal.</item>
+                  <item>Alger. E. of Northum.</item>
+                  <pb n="50" facs="tcp:169483:30"/>
+                  <item>Henry Earl of Kent</item>
+                  <item>Edward Earl of Man<g ref="char:EOLhyphen"/>chester.</item>
+                  <item>Philip Lord Wharton.</item>
+                  <item>William Lord Gray.</item>
+                  <item>Edward L. Howard.</item>
+                  <item>Henry Vane sen. Kt.</item>
+                  <item>Henry Roll, L. C. J. of the upper bench.</item>
+                  <item>Francis Thorp, one of the Bar. of the Excheq</item>
+                  <item>Peter Warberton, one of the Justices of the Common Pleas.</item>
+                  <item>John Puleston, one of the Just. of the C. Pl</item>
+                  <item>Edw. Prideaux, Att. G.</item>
+                  <item>Richard Sandford, Kt.</item>
+                  <item>Allen Bellingham.</item>
+                  <item>Edward Brigs.</item>
+                  <item>Roger Bateman.</item>
+                  <item>Nicholas Fisher.</item>
+                  <item>Thomas Brathwait.</item>
+                  <item>Richard Brathwait.</item>
+                  <item>Roger Colvile.</item>
+                  <item>Jervice Benson.</item>
+                  <item>John Thwait.</item>
+                  <item>Richard Crochenthorp</item>
+                  <item>John Archer.</item>
+               </list>
+               <list>
+                  <item>Priscoe, Major of the Town of Kendall.</item>
+               </list>
+            </div>
+            <div type="justices_of_WORCESTER.">
+               <head>WORCESTER.</head>
+               <list>
+                  <head>Quorum.</head>
+                  <item>William Lenthall, Sp.</item>
+                  <item>Oliver Cromwel, L. G.</item>
+                  <item>John Bradshawe, L. Pr.</item>
+                  <item>B. Whitlock Lo. Com. of the great seal.</item>
+                  <item>Rich. Keble Lo. Com. of the great seal.</item>
+                  <item>John Lisle Lo. Com. of the great seal.</item>
+                  <item>Basilius E. of Denbigh.</item>
+                  <item>Leicester Vis. Hartford</item>
+                  <item>Edward, Lord Howard of Estrick.</item>
+                  <item>Charles, L. Laware.</item>
+                  <item>Henry Roll, Lo. chief Just. of the up. bench.</item>
+                  <item>John Wilde, Lo. chief Baron of the Excheq.</item>
+                  <item>Richard Aske, one of
+<pb n="60" facs="tcp:169483:31"/>the justices of the up<g ref="char:EOLhyphen"/>per bench.</item>
+                  <item>John Puleston, one of the Just. of the Com. Pleas.</item>
+                  <item>Phillip Jermyn, one of the Just, of the upper bench.</item>
+                  <item>Robert Nicholas, one of the Justices of the upper bench.</item>
+                  <item>Thomas Rouse, Bar.</item>
+                  <item>William Sambach, Kt.</item>
+                  <item>Humphry Salway.</item>
+                  <item>Edward Wilde.</item>
+                  <item>Edward Pit.</item>
+                  <item>Thomas Greaves.</item>
+                  <item>William Lygon.</item>
+                  <item>John Edgecoke.</item>
+                  <item>Nicholas Lechmere.</item>
+                  <item>John Dormer.</item>
+                  <item>William Dingley.</item>
+                  <item>Jervice Buck.</item>
+                  <item>John Naufan.</item>
+                  <item>William Jeffreys.</item>
+                  <item>Henry Bromley, of U<g ref="char:EOLhyphen"/>pton.</item>
+               </list>
+               <list>
+                  <item>Joh. Talbot of Okeley.</item>
+                  <item>John Corbet.</item>
+                  <item>
+                     <hi>q.</hi> charles Cornwallis.</item>
+                  <item>
+                     <hi>q.</hi> John Latham.</item>
+                  <item>
+                     <hi>q.</hi> Thomas Jolley.</item>
+                  <item>
+                     <hi>q.</hi> John Bridges.</item>
+                  <item>Thomas Milward.</item>
+                  <item>John Keyte.</item>
+                  <item>
+                     <hi>q.</hi> Francis Street.</item>
+                  <item>John Lench.</item>
+                  <item>John James.</item>
+                  <item>William cooks.</item>
+                  <item>Thomas cooks.</item>
+                  <item>
+                     <hi>q.</hi> Nicholas Acton.</item>
+                  <item>Thomas Westrow.</item>
+                  <item>William Barnesley.</item>
+                  <item>Richard Vernon.</item>
+                  <item>Thomas Childe.</item>
+                  <item>Talbot Badger.</item>
+                  <item>William Moor.</item>
+               </list>
+            </div>
+            <div type="justices_of_WILTSHIRE">
+               <pb n="61" facs="tcp:169483:31"/>
+               <head>WILTSHIRE.</head>
+               <list>
+                  <head>Quorum.</head>
+                  <item>William Lenthall, Sp.</item>
+                  <item>Oliver Cromwel, L. G.</item>
+                  <item>John Bradshawe, Lord</item>
+                  <item>President.</item>
+                  <item>B. Whitlock Lo. Com. of the great Seal.</item>
+                  <item>Rich Keble Lo. Com. of the great Seal.</item>
+                  <item>John Lisle Lo. Com. of the great Seal.</item>
+                  <item>Philip, Earl of Pem<g ref="char:EOLhyphen"/>brok and Mountgom.</item>
+                  <item>William, Earl of Salisb.</item>
+                  <item>Henry Roll Lo. chief Just. of the up. bench.</item>
+                  <item>Oliver St John L. C. J. Just. of the Common Pleas.</item>
+                  <item>John Wilde, Lo. chief Baron of the <gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>xcheq.</item>
+                  <item>Fenja. Weston, Esq;</item>
+                  <item>John Nicholas, one of the Just. of the upper bench.</item>
+                  <item>Antony Ashly, Cooper, Baronet.</item>
+                  <item>John Danvers, Kt.</item>
+                  <item>Edward Baynton, Kt.</item>
+                  <item>John Evelin, Kt.</item>
+                  <item>John Horton, Kt.</item>
+                  <item>Robert Wallop.</item>
+                  <item>Alexander Popham.</item>
+                  <item>Edward Ludlow, jun.</item>
+                  <item>Edward Popham.</item>
+                  <item>Edward Baynton.</item>
+                  <item>Edward Eastcourt.</item>
+                  <item>Richard Whitehead.</item>
+                  <item>Edward Tooker.</item>
+                  <item>Robert Jenner.</item>
+                  <item>Alex. Thislethwait.</item>
+                  <item>John Top.</item>
+                  <item>William Stephens.</item>
+                  <item>William Eyre.</item>
+                  <item>William Houssey.</item>
+                  <item>Edward Dunch.</item>
+                  <item>Thomas Eastcourt.</item>
+                  <item>John Long.</item>
+                  <item>John Norden.</item>
+                  <item>Edward Ludlow, sen.</item>
+                  <item>Giles Eyers.</item>
+                  <item>John Dove.</item>
+                  <pb n="62" facs="tcp:169483:32"/>
+                  <item>Hugh Windham.</item>
+                  <item>George Grutham, How</item>
+                  <item>Edward Stokes.</item>
+                  <item>Walter South.</item>
+                  <item>Richard Goddard, of Clatford.</item>
+                  <item>Rich. Grutham, How.</item>
+                  <item>Barnabas Coles.</item>
+                  <item>George Joy.</item>
+                  <item>Robert Hippesly.</item>
+                  <item>William Sadler.</item>
+                  <item>Francis Kivet.</item>
+                  <item>Gregory Clement.</item>
+                  <item>Nicholas Green.</item>
+               </list>
+               <list>
+                  <item>Thomas Long of che<g ref="char:EOLhyphen"/>verell.</item>
+                  <item>
+                     <hi>q.</hi> William Ludlow.</item>
+                  <item>
+                     <hi>q.</hi> William Temple.</item>
+                  <item>
+                     <hi>q.</hi> Tho. Eyre of Brom<g ref="char:EOLhyphen"/>ham.</item>
+                  <item>
+                     <hi>q.</hi> Richard South.</item>
+                  <item>William Littleton.</item>
+                  <item>
+                     <hi>q.</hi> Joh. Jones de Wood<g ref="char:EOLhyphen"/>lann.</item>
+                  <item>John Sadler.</item>
+                  <item>
+                     <hi>q.</hi> Andrew Pend.</item>
+                  <item>Edmund Hungerford.</item>
+                  <item>Edward Michel.</item>
+                  <item>Francis Swanton.</item>
+                  <item>Gabriel Martin.</item>
+                  <item>John Read.</item>
+                  <item>William Shute.</item>
+               </list>
+            </div>
+            <div type="justices_of_ANGLESEY.">
+               <head>ANGLESEY.</head>
+               <list>
+                  <head>Quorum.</head>
+                  <item>William Lenthall, Sp.</item>
+                  <item>Oliver crom well. L. G.</item>
+                  <item>John Bradshaw, L. Pr.</item>
+                  <item>B. Whitlock, L. Com. of the great seal.</item>
+                  <item>Rich. Keble, L. Com. of the great seal.</item>
+                  <item>John Lisle, L. Com. of the great seal.</item>
+                  <item>Basilius E. of Denbigh.</item>
+                  <item>Henry Roll, L. C. J. of the upper bench.</item>
+                  <item>Oliver St. John, L. C. J. of the Com. Pleas.</item>
+                  <item>John wilde, Lord chief Baron of the Exche<g ref="char:EOLhyphen"/>quer.</item>
+                  <pb n="63" facs="tcp:169483:32"/>
+                  <item>Will. Littleton Just<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ces of the great Sefsions.</item>
+                  <item>Edw. Bulstrod Just<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ces of the great Sefsions.</item>
+                  <item>Edward Prideaux, Att. Gen.</item>
+                  <item>Hugh Owen Baronet.</item>
+                  <item>John Jones.</item>
+                  <item>Nicholas Bagnall.</item>
+                  <item>Thomas Mitton.</item>
+                  <item>Owen Wood.</item>
+                  <item>Thomas Madrin.</item>
+                  <item>Richard Merrick.</item>
+                  <item>VVilliam Bould.</item>
+                  <item>Richard Owen.</item>
+                  <item>Owen Holland.</item>
+               </list>
+               <list>
+                  <item>John Wood.</item>
+                  <item>Richard Dryhurst.</item>
+                  <item>Robert Lewis.</item>
+                  <item>William Lewis.</item>
+                  <item>William Williams.</item>
+                  <item>Richard Bolton, sen.</item>
+               </list>
+            </div>
+            <div type="justices_of_BRECON.">
+               <head>BRECON.</head>
+               <list>
+                  <head>Quorum.</head>
+                  <item>William Lenthal, Sp.</item>
+                  <item>Oliver Cromwel, Lord</item>
+                  <item>General.</item>
+                  <item>John Bradshaw, Lo. President.</item>
+                  <item>Bulst. Whitlock L Com<g ref="char:EOLhyphen"/>mission. of the gr. seal.</item>
+                  <item>Richard Keble L Com<g ref="char:EOLhyphen"/>mission. of the gr. seal.</item>
+                  <item>John Lisle L Com<g ref="char:EOLhyphen"/>mission. of the gr. seal.</item>
+                  <item>Henry Roll, L. C. Just. of the upper bench.</item>
+                  <item>Jo. Eltonhead Justices of the great Sessions.</item>
+                  <item>Joh. Norbury Justices of the great Sessions.</item>
+                  <item>Edw. Prideaux, Att. G.</item>
+                  <item>Edw. Freeman, Att. G.</item>
+                  <item>Thomas Harrison.</item>
+                  <item>Philip Jones.</item>
+                  <item>Charles Walbeef.</item>
+                  <item>Edward Romsey.</item>
+                  <item>Edward Gumes.</item>
+                  <item>Ro. Havard of Acton.</item>
+                  <item>Henry Williams.</item>
+               </list>
+               <list>
+                  <item>Edward Williams.</item>
+                  <item>Thomas Williams.</item>
+                  <item>William Watkins.</item>
+                  <item>Lewes Jones.</item>
+                  <item>Thomas Watkins.</item>
+               </list>
+            </div>
+            <div type="justices_of_CARDIGAN">
+               <pb n="64" facs="tcp:169483:33"/>
+               <head>CARDIGAN.</head>
+               <list>
+                  <head>Quorum.</head>
+                  <item>William Lenthall, Sp.</item>
+                  <item>Oliver Cromwel, L. G.</item>
+                  <item>John Bradshawe, L. Pr.</item>
+                  <item>B. Whitlock Lo. Com. of the great seal.</item>
+                  <item>Rich. Keble Lo. Com. of the great seal.</item>
+                  <item>John Lisle Lo. Com. of the great seal.</item>
+                  <item>Henry Roll L. C. J. of the upper bench.</item>
+                  <item>Will Powel, Justices of the great Se<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>sions.</item>
+                  <item>John Clark, Justices of the great Se<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>sions.</item>
+                  <item>Edw. Prideaux, Att. G.</item>
+                  <item>Thomas Harrison.</item>
+                  <item>Edward Freeman, At<g ref="char:EOLhyphen"/>turney in Southwales</item>
+                  <item>James Philips.</item>
+                  <item>Henry Vaughan.</item>
+                  <item>James Lewis</item>
+                  <item>John Lloyd, of Van<g ref="char:EOLhyphen"/>dreffe.</item>
+                  <item>John Lewis, of Glasse<g ref="char:EOLhyphen"/>grigge.</item>
+                  <item>Thomas Parry.</item>
+               </list>
+               <list>
+                  <item>Richard Lloyd.</item>
+                  <item>Rawley Mansell.</item>
+               </list>
+            </div>
+            <div type="justices_of_CARMARTHEN.">
+               <head>CARMARTHEN.</head>
+               <list>
+                  <head>Quorum.</head>
+                  <item>William Lenthall, Sp.</item>
+                  <item>Oliver Cromwell, L. G.</item>
+                  <item>John Bradshaw, Lord President.</item>
+                  <item>Bul Whitlock, L. Com<g ref="char:EOLhyphen"/>of the Gr. seal.</item>
+                  <item>Richard Keble, L. Com<g ref="char:EOLhyphen"/>of the Gr. seal.</item>
+                  <item>John Lisle, L. Com<g ref="char:EOLhyphen"/>of the Gr. seal.</item>
+                  <item>Henry Roll, Lo. chief Just. of the up. bench.</item>
+                  <pb n="65" facs="tcp:169483:33"/>
+                  <item>Will Powel, Justices of the great Sessions.</item>
+                  <item>John Clark, Justices of the great Sessions.</item>
+                  <item>Edw. Prideaux, Att. G.</item>
+                  <item>Thomas Harrison.</item>
+                  <item>Philip Jones.</item>
+                  <item>Erasmus Philips, Bar.</item>
+                  <item>Edward Vaughan, Kt.</item>
+                  <item>Edw. Freeman, At. G.</item>
+                  <item>John Floyd, de Ver<g ref="char:EOLhyphen"/>dreffe.</item>
+                  <item>James Philips.</item>
+                  <item>Rowland Dawkins,</item>
+                  <item>David Morgan.</item>
+                  <item>Jenkin Franklin.</item>
+                  <item>Richard Vaughan.</item>
+                  <item>Maurice Morgan.</item>
+               </list>
+               <list>
+                  <item>Charles Gwyn.</item>
+                  <item>
+                     <hi>q.</hi> Thomas Morgan.</item>
+                  <item>
+                     <hi>q.</hi> William Flemming.</item>
+                  <item>
+                     <hi>q.</hi> John Russell.</item>
+               </list>
+            </div>
+            <div type="justices_of_CARNARVAN.">
+               <head>CARNARVAN.</head>
+               <list>
+                  <head>Quorum.</head>
+                  <item>William Lenthall, Sp.</item>
+                  <item>Oliver Cromwel, L. G.</item>
+                  <item>John Bradshawe, L. Pr.</item>
+                  <item>B. Whitlook Lo. Com. of the great Seal.</item>
+                  <item>Rich Keble Lo. Com. of the great Seal.</item>
+                  <item>John Lisle Lo. Com. of the great Seal.</item>
+                  <item>Basil, E. of Denbigh.</item>
+                  <item>Henry Roll. L. C. J. of the upper bench.</item>
+                  <item>Oliver St. John, L. chief Just. of the Com Pl.</item>
+                  <item>John Wilde, Lo. chief Baron of the Excheq.</item>
+                  <item>Will. Littleton Just<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>c. of the g<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eat Sessions.</item>
+                  <item>Edw. Bulstrode Just<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>c. of the g<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eat Sessions.</item>
+                  <item>Edw. Prideaux. At. G.</item>
+                  <item>Owen Wynne, Bar.</item>
+                  <item>John Jones</item>
+                  <item>John Glyn Serj. at law</item>
+                  <item>John Carter.</item>
+                  <item>Thomas Mason.</item>
+                  <item>George Twisleton.</item>
+                  <item>Griffin Jones.</item>
+                  <item>Thomas Madryn.</item>
+                  <item>Owen Griffith.</item>
+                  <item>William Foxwist.</item>
+               </list>
+               <list>
+                  <item>John Owen.</item>
+                  <item>William Williams.</item>
+                  <item>William Loyd.</item>
+               </list>
+            </div>
+            <div type="justices_of_DENBIGH">
+               <pb n="66" facs="tcp:169483:34"/>
+               <head>DENBIGH.</head>
+               <list>
+                  <head>Quorum.</head>
+                  <item>William Lenthall, Sp.</item>
+                  <item>Oliver cromwell, L. G.</item>
+                  <item>John Bradshaw, L. Pr.</item>
+                  <item>B Whitlock, L. Com. of the great seal.</item>
+                  <item>Rich. Keble, L. Com. of the great seal.</item>
+                  <item>John Lisle, L. Com. of the great seal.</item>
+                  <item>Basilius E. of Denbigh.</item>
+                  <item>Henry Roll, L. C. J. of the upper bench.</item>
+                  <item>Oliver St. John, L. C. J. of the Com. Pleas.</item>
+                  <item>Humfrid Mackworth, Deputy Justice of the Sessions.</item>
+                  <item>Thomas Fell, another of the Justices of the Sessions.</item>
+                  <item>Edward Prideaux, Att. Gen.</item>
+                  <item>Thom. Middleton, Kt.</item>
+                  <item>John Trever, Kt.</item>
+                  <item>John Puleston, one of the Just. of the C. Pl.</item>
+                  <item>John Bradshaw, Attur. Gen.</item>
+                  <item>Simon Thelwall, sen.</item>
+                  <item>Robert Sonthley.</item>
+                  <item>Thomas Tyrrel.</item>
+                  <item>Edward Thelwell, of Glantanant.</item>
+                  <item>Thomas Ravenscroft.</item>
+                  <item>John Carter.</item>
+                  <item>George Twisleton.</item>
+                  <item>Owin Thelwell.</item>
+                  <item>Thomas Ball.</item>
+               </list>
+               <list>
+                  <item>John Peck.</item>
+                  <item>William Wynne.</item>
+                  <item>Richard Middleton.</item>
+               </list>
+            </div>
+            <div type="justices_of_FLINT">
+               <pb n="67" facs="tcp:169483:34"/>
+               <head>FLINT.</head>
+               <list>
+                  <head>Quorum.</head>
+                  <item>William Lenthall. Sp.</item>
+                  <item>Oliver Cromwel, L. G.</item>
+                  <item>John Bradshaw, L. Pres.</item>
+                  <item>B Whitlock, L Com. of the great seal.</item>
+                  <item>Rich. Keble, L Com. of the great seal.</item>
+                  <item>John Lisle L Com. of the great seal.</item>
+                  <item>Philip, Earl of Pembr. and Mountgomery.</item>
+                  <item>Basile Earl of Denbigh.</item>
+                  <item>Henry Roll, L. C. J. of the upper bench.</item>
+                  <item>Oliver St John, L. C. J. of the Com. Pleas.</item>
+                  <item>John wilde, Lord chief Baron of the Exche<g ref="char:EOLhyphen"/>quer.</item>
+                  <item>John Puleston, one of the Justices of the Com. Pleas.</item>
+                  <item>Peter Warberton, one of the Justices of Com<g ref="char:EOLhyphen"/>mon Pleas.</item>
+                  <item>Thom Fell, one of the Just, of the Sessions.</item>
+                  <item>Humphry Mackworth.</item>
+                  <item>Edward Prideaux, Att. Gen.</item>
+                  <item>John Trever, Kt.</item>
+                  <item>John Bradshaw.</item>
+                  <item>Thomas Ravenscroft.</item>
+                  <item>John Jones.</item>
+                  <item>John Aldersey.</item>
+                  <item>John Salisbury.</item>
+                  <item>Humphry Demmock.</item>
+                  <item>Roger Hanmer.</item>
+               </list>
+               <list>
+                  <item>Thomas Holford.</item>
+                  <item>Peter Evans.</item>
+                  <item>Roger Ellis.</item>
+                  <item>Richard Young.</item>
+                  <item>David Jones.</item>
+                  <item>Henry Birkenhead.</item>
+                  <item>Peter Foulkes.</item>
+                  <item>Pierce Conwey.</item>
+                  <item>John Conway.</item>
+                  <item>John Peck.</item>
+               </list>
+            </div>
+            <div type="justices_of_GLAMORGAN">
+               <pb n="68" facs="tcp:169483:35"/>
+               <head>GLAMORGAN.</head>
+               <list>
+                  <head>Quorum,</head>
+                  <item>William Lenthal, Sp.</item>
+                  <item>Oliver Cromwel, L. G.</item>
+                  <item>John Bradshaw, L. Pr.</item>
+                  <item>Bulst. Whitlock L Com<g ref="char:EOLhyphen"/>mission. of the gr. seal.</item>
+                  <item>Richard Keble L Com<g ref="char:EOLhyphen"/>mission. of the gr. seal.</item>
+                  <item>John Lisle L Com<g ref="char:EOLhyphen"/>mission. of the gr. seal.</item>
+                  <item>Philip, Earl of Pem<g ref="char:EOLhyphen"/>brock &amp; Mountgom.</item>
+                  <item>Algernon Sidney.</item>
+                  <item>Henry Roll, L. C. J. of the upper bench.</item>
+                  <item>Jo. Eltonhead Justices of the great Sessions.</item>
+                  <item>John Norbury Justices of the great Sessions.</item>
+                  <item>Thomas Harrison.</item>
+                  <item>Edward Freeman At-Gen. of Southwales.</item>
+                  <item>Thomas Lewis, Kt.</item>
+                  <item>William Powel, Serje<g ref="char:EOLhyphen"/>ant at Law.</item>
+                  <item>Richard Cromwell.</item>
+                  <item>Walter Strickland.</item>
+                  <item>William Lewis.</item>
+                  <item>Bussey Maunsell.</item>
+                  <item>Michael Oldsworth.</item>
+                  <item>Thomas parry.</item>
+                  <item>Edward Prichard.</item>
+                  <item>Evan Seyes.</item>
+                  <item>Humphry Windham.</item>
+                  <item>William Herbert, of Cottam.</item>
+                  <item>Edward Stradling.</item>
+               </list>
+               <list>
+                  <item>Richard Jones.</item>
+                  <item>
+                     <hi>q.</hi> Philip Jones.</item>
+                  <item>Henry Bowen</item>
+                  <item>
+                     <hi>q.</hi> John Herbert.</item>
+                  <item>John Price.</item>
+                  <item>Thomas Evans.</item>
+                  <item>
+                     <hi>q.</hi> Rowland Dawkins.</item>
+                  <item>John Gibs.</item>
+                  <item>William Deer.</item>
+                  <item>Edward Gamadge.</item>
+                  <item>John Boteler, Esq;</item>
+               </list>
+            </div>
+            <div type="justices_of_MERIONETH">
+               <pb n="69" facs="tcp:169483:35"/>
+               <head>MERIONETH.</head>
+               <list>
+                  <head>Quorum.</head>
+                  <item>William Lenthall. Sp.</item>
+                  <item>Oliver Cromwel, L. G.</item>
+                  <item>John Bradshawe, L. Pr.</item>
+                  <item>B. Whitlock Lo. Com. of the great seal.</item>
+                  <item>Rich. Keble Lo. Com. of the great seal.</item>
+                  <item>John Lisle Lo. Com. of the great seal.</item>
+                  <item>Basil, E. of Denbigh.</item>
+                  <item>Henry Roll, Lo. chief Just. of the up. bench.</item>
+                  <item>Oliver St John, L. C. J. Just. of the Com. Pl.</item>
+                  <item>John Wilde, Lo. chief Baron of the Excheq.</item>
+                  <item>Will. Littleton, <gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ust of the great Sessions.</item>
+                  <item>Edw. Bulstrod, <gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ust of the great Sessions.</item>
+                  <item>Edw. Prideaux, Att. G.</item>
+                  <item>Thomas Middleton, Kt</item>
+                  <item>Owen Wynne, Bar.</item>
+                  <item>Thomas Mitton.</item>
+                  <item>Owen Salisbury.</item>
+                  <item>Griffith Nanney.</item>
+                  <item>John Jones.</item>
+                  <item>Henry Wynne.</item>
+                  <item>Robert Anwell.</item>
+                  <item>Lewis Owen.</item>
+                  <item>Robert Vaughan.</item>
+                  <item>William Wynne.</item>
+               </list>
+               <list>
+                  <item>Lewis Floyd.</item>
+                  <item>Howel Vaughan.</item>
+                  <item>John Floyd.</item>
+                  <item>John Vaughan.</item>
+                  <item>Griffin Floyd.</item>
+               </list>
+            </div>
+            <div type="justices_of_MOUNTGOMERY">
+               <head>MOUNTGOMERY</head>
+               <list>
+                  <head>Quorum.</head>
+                  <item>William Lenthall, Sp.</item>
+                  <item>Oliver Cromwell, L. G.</item>
+                  <item>John Bradshaw, L. Pr.</item>
+                  <item>Bul. Whitlock, L. Com<g ref="char:EOLhyphen"/>of the Gr. seal.</item>
+                  <item>Richard Keble, L. Com<g ref="char:EOLhyphen"/>of the Gr. seal.</item>
+                  <item>John Lisle, L. Com<g ref="char:EOLhyphen"/>of the Gr. seal.</item>
+                  <pb n="70" facs="tcp:169483:36"/>
+                  <item>Philip, Earl of Pembr. and Mountgom.</item>
+                  <item>Basile Earl of Denbigh.</item>
+                  <item>Henry Roll, L. C. J. of the upper bench.</item>
+                  <item>Oliver St. John, L. C. J. of the Com. Pl.</item>
+                  <item>John Wilde, L. Chief Bar. of the Excheq.</item>
+                  <item>Thom. Fell, one of the Just. of the Sessions.</item>
+                  <item>Humphry Mackworth.</item>
+                  <item>Edw. Prideaux, Att. G.</item>
+                  <item>John Wittewrong, Kt.</item>
+                  <item>John Bradshaw, Att. G.</item>
+                  <item>Thomas Mitton.</item>
+                  <item>John Pugh, of Matha<g ref="char:EOLhyphen"/>varne.</item>
+                  <item>Evans Floyd.</item>
+                  <item>Floyd Pierce.</item>
+                  <item>Lewis Owen.</item>
+                  <item>Hugo Price.</item>
+                  <item>Charles Floyd of Garth</item>
+                  <item>Samuel Moore.</item>
+                  <item>Richard Price.</item>
+               </list>
+               <list>
+                  <item>John Kinaston.</item>
+                  <item>
+                     <hi>q.</hi> John Price, de Park.</item>
+                  <item>Matthew Morgan.</item>
+                  <item>Richard Owen.</item>
+                  <item>Thomas Owen.</item>
+                  <item>Ga briel Wyn.</item>
+                  <item>Richard Vaughan.</item>
+                  <item>William Kiffin.</item>
+                  <item>Ri<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h. Griffith of Sutton</item>
+                  <item>Rob. Griffith of Sutton</item>
+               </list>
+            </div>
+            <div type="justices_of_PEMBROCK.">
+               <head>PEMBROCK.</head>
+               <list>
+                  <head>Quorum,</head>
+                  <item>William Lenthall, Sp.</item>
+                  <item>Oliver Cromwel, L. G.</item>
+                  <item>John <gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>radshaw, L. Pre.</item>
+                  <item>Bulst. Whitlock L. C. of the gr. seal.</item>
+                  <item>Richard Keble L. C. of the gr. seal.</item>
+                  <item>John Lisle, L. C. of the gr. seal.</item>
+                  <item>Philip, Earl of Pembr and Mountgom.</item>
+                  <item>Henry Roll, L. C. J. of the upper bench.</item>
+                  <item>Will. Powel, Justices</item>
+                  <item>John Clerke. &amp;c.</item>
+                  <item>Thomas Harrison</item>
+                  <pb n="71" facs="tcp:169483:36"/>
+                  <item>Edw. Freeman, Attur.</item>
+                  <item>Gen. in Southwales.</item>
+                  <item>Erasmus Philips, Bar.</item>
+                  <item>Roger Lort.</item>
+                  <item>James Philips.</item>
+                  <item>Samson Lort.</item>
+                  <item>Henry White.</item>
+                  <item>Herbert Perot.</item>
+                  <item>James Lewis.</item>
+                  <item>Thomas Parry.</item>
+                  <item>John Matthias.</item>
+                  <item>Thomas Jones.</item>
+               </list>
+               <list>
+                  <item>Maurice Morgan.</item>
+               </list>
+            </div>
+            <div type="justices_of_RADNOR.">
+               <head>RADNOR.</head>
+               <list>
+                  <head>Quorum.</head>
+                  <item>William Lenthal, Sp.</item>
+                  <item>Oliver Cromwel, L G.</item>
+                  <item>John Bradshaw, Lord President.</item>
+                  <item>Bulst Whitlock L. C. of the Gr. seal.</item>
+                  <item>Richard Keble L. C. of the Gr. seal.</item>
+                  <item>John Lisle. L. C. of the Gr. seal.</item>
+                  <item>Henry Roll. L. C. J. of the upper bench.</item>
+                  <item>John Eltonhead <gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ust. of the great Sessions.</item>
+                  <item>John Norbury <gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ust. of the great Sessions.</item>
+                  <item>Thomas Harrison</item>
+                  <item>Edw. Freeman Attur. Gen. of Southwales.</item>
+                  <item>John Thin.</item>
+                  <item>John Venne.</item>
+                  <item>Silvanus Taylor.</item>
+                  <item>Henry Williams of ca<g ref="char:EOLhyphen"/>balva.</item>
+                  <item>Richarst Fowler of A<g ref="char:EOLhyphen"/>bycomhear.</item>
+                  <item>William Beomont, of Bringwyn.</item>
+                  <item>Thomas Baskervile.</item>
+                  <item>John Williams.</item>
+                  <item>Joh. Williams of Sken<g ref="char:EOLhyphen"/>lesse.</item>
+               </list>
+               <list>
+                  <item>Hugo Lewis.</item>
+                  <item>David Floyd.</item>
+                  <item>Peter Taylor.</item>
+                  <item>Richard King.</item>
+                  <item>John Dancy.</item>
+                  <item>Nicholas Taylor.</item>
+               </list>
+            </div>
+            <div type="justices_of_LIBERTAS_WESMONAST">
+               <pb n="72" facs="tcp:169483:37"/>
+               <head>LIBERTAS WESMONAST.</head>
+               <list>
+                  <head>Quorum.</head>
+                  <item>William Lenthal, Sp.</item>
+                  <item>Oliver Cromwell, L. G.</item>
+                  <item>John Bradshaw, L. Pr.</item>
+                  <item>
+                     <hi>B.</hi> Whitlock, L. Com. of the great. seal.</item>
+                  <item>Rich. Keble L. Com. of the great. seal.</item>
+                  <item>John Lisle, L. Com. of the great. seal.</item>
+                  <item>Robert E of Warwick.</item>
+                  <item>Charles, <hi>E.</hi> of Notting.</item>
+                  <item>William, Earl of Salisb</item>
+                  <item>Will. L. Gray of Wark.</item>
+                  <item>Will. L. visc. Mounson</item>
+                  <item>Henry Vane senior, Kt.</item>
+                  <item>Leicester Vis. Hereford</item>
+                  <item>Henry Roll, L. C. Just. of the upper bench.</item>
+                  <item>Oliver St. John L. C. J. of the Com. Pleas.</item>
+                  <item>John Wilde, L. C. Bar. of the Excheq</item>
+                  <item>Edw. Prideaux. At. G.</item>
+                  <item>Edw. Powel Kt. &amp; Bar.</item>
+                  <item>Humphry Foster, Bar.</item>
+                  <item>John Danvers Kt.</item>
+                  <item>Henry Vane junior, Kt.</item>
+                  <item>John Hippesly, Kt.</item>
+                  <item>John Thorowgood, Kt.</item>
+                  <item>Humyhry Edwards.</item>
+                  <item>Lawrence Whitaker.</item>
+                  <item>John Brown.</item>
+                  <item>Henry Scobell, clerk of the Parliament.</item>
+                  <item>Edward Birkhead.</item>
+                  <item>George Madley.</item>
+                  <item>Roger Hill.</item>
+                  <item>John Trenchard.</item>
+                  <item>Michael Oldsworth.</item>
+                  <item>John Moore.</item>
+                  <item>Thomas Letham,</item>
+                  <item>Edward Rich.</item>
+                  <item>John Hooker.</item>
+                  <item>Robert Nelson.</item>
+                  <item>Thomas Pride.</item>
+                  <item>Thomas Herbert.</item>
+                  <item>Thomas Falconbridge.</item>
+                  <item>John Heylin.</item>
+               </list>
+               <list>
+                  <item>Edward Carter.</item>
+                  <item>Silvanus Taylor.</item>
+                  <item>John Humphreyes.</item>
+                  <item>William Powel.</item>
+                  <item>Arthur Squib. junior.</item>
+                  <item>Samuel Gookin.</item>
+               </list>
+            </div>
+         </div>
+         <div type="lists">
+            <pb n="73" facs="tcp:169483:37"/>
+            <head>The Names of the Keepers of the Rolls, in <hi>England</hi> and <hi>Wales. Michaelmas,</hi> 1650.</head>
+            <list>
+               <item>BEDLORD. Henry <hi>E.</hi> of Kent.</item>
+               <item>BERKSHIRE. William Lenthall, Sp.</item>
+               <item>BUCKINGAM. Bulstrod Whitlock, one of the com. of the G. S</item>
+               <item>CAMBRIDGE. Oliver Cromwel, L. G.</item>
+               <item>CHESHIRE. Geo. Booth, Kt. &amp; Bar.</item>
+               <item>CORNWALL. John, Lord Roberts.</item>
+               <item>CUMBERLAND. Philip Lord Wharton.</item>
+               <item>DERBY. Philip, Earl of Pem<g ref="char:EOLhyphen"/>brok and Mountgom.</item>
+               <item>DORSET. John Trenchard.</item>
+               <item>DURHAM: Henry Vane sen. Kt.</item>
+               <item>YORK. Thomas, Lord Fairfax.</item>
+               <item>ELIE. Oliver Cromwell, L. G.</item>
+               <item>ESSEX. Henry Mildmay, Kt.</item>
+               <item>GLOUCESTER. John Wilde, Lo. chief Baron of the Excheq.</item>
+               <item>HEREFORD. Thomas Baskervile.</item>
+               <item>HERTFORD. Will. <hi>E.</hi> of Salisbury.</item>
+               <item>HUNTINGTON. Oliver Cromwel. L G.</item>
+               <item>KENT. Henry Vane senior, Kt.</item>
+               <item>LEICESTER. Thomas Lord Gray of Groby.</item>
+               <item>LINCOLN. Edw. <hi>E.</hi> of Mulgrave.</item>
+               <item>MIDDLESEX. Henry Vane senior, Kt.</item>
+               <item>MONMOTH. Oliver Cromwell, L. G.</item>
+               <item>NOR FOLK. Tho. Woodhouse, Kt. and Bar.</item>
+               <item>NORTHAMPTON. John Dreyden, Bar.</item>
+               <pb n="74" facs="tcp:169483:38"/>
+               <item>NORTHUMBER. Algernon Earl of Nor<g ref="char:EOLhyphen"/>thumberland.</item>
+               <item>NOTTINGAM. Francis Pierpont.</item>
+               <item>OXFORD. William Lenthall, Sp.</item>
+               <item>RUTLAND. Thomas, Lord Gray of Groby.</item>
+               <item>SHROPSHIRE. William Pierpont.</item>
+               <item>SOMMERSET. Alexander Popham.</item>
+               <item>SOUTHAMPTON Robert Wallop.</item>
+               <item>STAFFORD. John Bradshaw, Lord Presid. of the counsel of State.</item>
+               <item>SUFFOLK. Will. Hevenningham</item>
+               <item>SURREY. William Visc. Moun. son.</item>
+               <item>SUSSEX. Algernon Earl of Nor<g ref="char:EOLhyphen"/>thumberland.</item>
+               <item>WARWICK. Basile, Earl of Den<g ref="char:EOLhyphen"/>bigh.</item>
+               <item>WESTEMELAND. Philip, Lord Wharton.</item>
+               <item>WORCESTER. Edward Lord Howard of Estrick.</item>
+               <item>WILTSHIRE. Philip, Earl of Pem<g ref="char:EOLhyphen"/>brock and Mountgo<g ref="char:EOLhyphen"/>mery.</item>
+               <item>LIBER. WESTMON. John Bradshaw, Lord Presid. of the Counsel of State.</item>
+            </list>
+            <div type="keepers_of_the_rolls_of_WALES.">
+               <head>WALES.</head>
+               <list>
+                  <item>ANGLESEY. Hugo Owin, Kt. &amp; Bar.</item>
+                  <item>BR<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>CON. Thomas Harrison.</item>
+                  <item>CARDIGAN. James Lewis.</item>
+                  <item>CARMARTHEN. Thomas Harrison.</item>
+                  <item>CARNARVON. Griffith Jones.</item>
+                  <item>D<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>NBIGH. Tho. Middleton, Kt.</item>
+                  <pb n="75" facs="tcp:169483:38"/>
+                  <item>FLINT. Thomas Ravenscroft.</item>
+                  <item>GLAMORGAN Oliver Cromwel, Lord Gen.</item>
+                  <item>MERJONETH. Owen Salisbury.</item>
+                  <item>MOUNTGOM. Philip E. of Pembrock.</item>
+                  <item>PEMBROCK. Philip, Earl of Pem<g ref="char:EOLhyphen"/>brock.</item>
+                  <item>RADNOR. Oliver Cromwel, Lord Gen.</item>
+               </list>
+            </div>
+            <div type="high_sheriffs">
+               <pb n="76" facs="tcp:169483:39"/>
+               <head>HIGH SHERIFFES. OF <hi>ENGLAND</hi> and <hi>WALES.</hi>
+               </head>
+               <list>
+                  <item>BEDFORD. William Bryers, Kt.</item>
+                  <item>BUCKINGAM. Simon Bennet. Esq;</item>
+                  <item>BERKSHIRE. ohn Allen, Esq;</item>
+                  <item>CORNWAL. Andrew Trevil Esq;</item>
+                  <item>CUMBERLAND</item>
+                  <item>CAMBRIDG, and HUNTING. John Towers, Esq;</item>
+                  <item>CHESHIRE. Edmund Jodrel, Esq;</item>
+                  <item>DERBY. John Stanhop. esq;</item>
+                  <item>DEVON. William Put, Esq;</item>
+                  <item>DORSET. Gerard Napper, Kt, &amp; Baronet.</item>
+                  <item>ESSEX. John Treyford, Esq;</item>
+                  <item>YORK. Edward Roads, Kt.</item>
+                  <item>GLOUSCETER John How, Esq;</item>
+                  <item>HERTFORD. John Rawley, Esq;</item>
+                  <pb n="77" facs="tcp:169483:39"/>
+                  <item>HEREFORD.</item>
+                  <item>KENT. William Draper, esq;</item>
+                  <item>LINCOLN. Anthony Mears</item>
+                  <item>LEICESTER.</item>
+                  <item>LANCASTER.</item>
+                  <item>MIDDLESEX. Robert Tichburne, esq;</item>
+                  <item>LONDON. Rich. Chiverton, esq;</item>
+                  <item>MONMOUTH. Roger Williams, esq;</item>
+                  <item>NORTHAMPTON.</item>
+                  <item>NOTTINGAM. Robert Reynes, esq;</item>
+                  <item>NORFOLK. Ralph Hare, Kt.</item>
+                  <item>NORTHUMBER.</item>
+                  <item>OXFORD. William Bosevile, esq;</item>
+                  <item>RUTLAND. Benjamin Norton, esq;</item>
+                  <item>STAFFORD. William Jolley, esq;</item>
+                  <item>SHROPSHIRE. Edward Corbet, Kt.</item>
+                  <item>SOUTHAMPTON. Thomas Bilson, esq;</item>
+                  <item>SUFFOLK. William Harvy, Kt.</item>
+                  <item>SOMMERSET. Alexander Pym, esq;</item>
+                  <item>SUSSEX. Peter Courthop, esq;</item>
+                  <item>SURREY. William Hynde, esq;</item>
+                  <item>WILTSHIRE. Law. Washington, esq;</item>
+                  <item>WORCESTER. William Cooks, esq;</item>
+                  <item>WARWICK. Henry Gibs Kt.</item>
+               </list>
+            </div>
+            <div type="high_sherrifs_of_Wales">
+               <pb n="79" facs="tcp:169483:40"/>
+               <head>WALES.</head>
+               <list>
+                  <item>ANGLESEY. Pierce Floyd, Esq;</item>
+                  <item>BRECON. Thomas Watkins, Esq;</item>
+                  <item>CARDIGAN. John Floyd, Esq;</item>
+                  <item>CARMARTHEN. George Gwin, Esq;</item>
+                  <item>C<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>RNARVON. Griffith Williams, Esq;</item>
+                  <item>DEN<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>IGH. William Wyn, Esq;</item>
+                  <item>FLINT. William Floyd, Esq;</item>
+                  <item>GLAMORGAN. George Bowen, Esq;</item>
+                  <item>MERIONETH. Maurice Wyn, Esq;</item>
+                  <item>PEMPROCK. James Philips, Esq;</item>
+                  <item>MOUNTGOMERY. Richard Price, Esq;</item>
+                  <item>RADNOR. Nicholas Taylor, Esq;</item>
+               </list>
+               <trailer>FINIS.</trailer>
+               <pb facs="tcp:169483:40"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
